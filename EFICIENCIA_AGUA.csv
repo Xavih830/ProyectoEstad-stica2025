@@ -1,0 +1,2235 @@
+"tipo_cultivo","tipo_suelo","metodo_riego","fertilizacion_utilizada","nivel_tecnificacion","volumen_agua","rendimiento_cultivo","eficiencia_agua","densidad_siembra"
+"cacao","franco","aspersión","orgánica","medio",7057,1417,0.2008,3784
+"cacao","arcilloso","aspersión","química","alto",7783,1563,0.2008,4468
+"maíz","franco-arcilloso","gravedad","orgánica","medio",8149,8213,1.0079,3833
+"sandía","franco","gravedad","orgánica","medio",8087,10009,1.2377,3912
+"cacao","arenoso","goteo","orgánica","medio",8008,1225,0.153,4215
+"arroz","franco","goteo","orgánica","medio",7544,7107,0.9421,3737
+"maíz","franco","gravedad","química","medio",7729,9459,1.2238,3886
+"banano","franco-arcilloso","goteo","mixta","bajo",7011,20446,2.9163,5556
+"sandía","arcilloso","gravedad","química","bajo",7361,12990,1.7647,3108
+"melón","arenoso","goteo","orgánica","bajo",8476,9240,1.0901,3618
+"plátano verde","arcilloso","gravedad","mixta","alto",7494,23425,3.1258,4404
+"banano","arenoso","aspersión","química","medio",6674,21592,3.2352,3131
+"melón","franco","goteo","química","bajo",4497,12313,2.738,3205
+"plátano verde","franco-arcilloso","gravedad","orgánica","bajo",6993,18827,2.6923,4781
+"maíz","franco-arcilloso","aspersión","orgánica","bajo",5644,8608,1.5252,3048
+"maíz","arenoso","gravedad","orgánica","medio",5969,7952,1.3322,4019
+"melón","franco-arcilloso","gravedad","química","medio",6561,10813,1.6481,5002
+"sandía","arcilloso","gravedad","orgánica","bajo",7275,11809,1.6232,3075
+"sandía","franco-arcilloso","aspersión","mixta","medio",6461,13256,2.0517,3390
+"cacao","arenoso","gravedad","orgánica","alto",6488,1520,0.2343,2986
+"cacao","arenoso","gravedad","química","alto",7679,1626,0.2117,4635
+"arroz","franco-arcilloso","goteo","química","bajo",7852,7341,0.9349,2551
+"sandía","arenoso","aspersión","mixta","bajo",5039,8502,1.6872,2221
+"melón","franco-arcilloso","goteo","mixta","medio",7970,10772,1.3516,2845
+"banano","arenoso","goteo","química","medio",7586,28180,3.7147,2150
+"banano","franco-arcilloso","goteo","orgánica","medio",5736,24908,4.3424,3234
+"sandía","arcilloso","aspersión","mixta","bajo",6535,8880,1.3588,4696
+"cacao","arcilloso","aspersión","orgánica","bajo",7278,1469,0.2018,5399
+"banano","franco-arcilloso","aspersión","mixta","bajo",5525,24862,4.4999,3932
+"plátano verde","franco","aspersión","orgánica","bajo",6849,19808,2.8921,3874
+"arroz","arcilloso","gravedad","orgánica","medio",6420,9462,1.4738,4261
+"plátano verde","arenoso","aspersión","mixta","medio",6934,24624,3.5512,2942
+"maíz","franco","aspersión","orgánica","medio",6771,9472,1.3989,3831
+"arroz","franco-arcilloso","aspersión","química","medio",7554,7887,1.0441,2914
+"arroz","franco","goteo","mixta","medio",3999,7714,1.929,4066
+"plátano verde","arenoso","gravedad","mixta","bajo",7527,22869,3.0383,4136
+"melón","arenoso","aspersión","mixta","bajo",7881,9865,1.2517,3694
+"banano","arcilloso","gravedad","mixta","alto",7950,23333,2.935,4314
+"plátano verde","franco","goteo","orgánica","bajo",6517,19869,3.0488,3563
+"banano","arenoso","aspersión","mixta","alto",6964,28206,4.0503,3918
+"maíz","arenoso","aspersión","orgánica","medio",7035,11126,1.5815,3150
+"arroz","franco","aspersión","mixta","bajo",8543,6706,0.785,4154
+"sandía","franco-arcilloso","goteo","química","alto",4404,12476,2.8329,5138
+"maíz","franco-arcilloso","gravedad","mixta","bajo",7457,9485,1.272,3824
+"plátano verde","franco-arcilloso","goteo","química","alto",4231,23261,5.4978,3687
+"sandía","arcilloso","gravedad","orgánica","medio",8609,12505,1.4525,2969
+"maíz","franco","gravedad","química","medio",5921,8681,1.4661,2143
+"sandía","arcilloso","gravedad","orgánica","alto",4645,12012,2.586,5028
+"maíz","franco","goteo","orgánica","medio",8243,9055,1.0985,3460
+"melón","arenoso","gravedad","química","medio",5192,9660,1.8606,4515
+"banano","arcilloso","aspersión","orgánica","alto",9825,30303,3.0843,4379
+"arroz","franco-arcilloso","aspersión","química","medio",6104,8606,1.4099,5060
+"arroz","franco-arcilloso","gravedad","mixta","alto",7643,7836,1.0253,3566
+"banano","arenoso","aspersión","orgánica","bajo",5700,23589,4.1384,3782
+"banano","franco-arcilloso","goteo","orgánica","medio",5828,23414,4.0175,3447
+"sandía","arenoso","goteo","química","medio",8303,9608,1.1572,4042
+"plátano verde","franco-arcilloso","gravedad","mixta","medio",9838,22116,2.248,4383
+"melón","franco-arcilloso","gravedad","química","alto",6464,9698,1.5003,4338
+"maíz","franco-arcilloso","gravedad","química","medio",7233,8187,1.1319,5210
+"sandía","arcilloso","goteo","mixta","medio",5900,12110,2.0525,4886
+"sandía","arcilloso","aspersión","mixta","medio",7644,11154,1.4592,3283
+"banano","franco-arcilloso","goteo","mixta","bajo",7238,19626,2.7115,5092
+"maíz","arenoso","gravedad","orgánica","alto",9684,10564,1.0909,4074
+"melón","franco","aspersión","química","medio",7212,9932,1.3771,3174
+"plátano verde","arcilloso","aspersión","mixta","bajo",8376,18667,2.2286,4345
+"maíz","franco-arcilloso","gravedad","química","medio",7823,8632,1.1034,3292
+"melón","franco","goteo","orgánica","medio",5167,11849,2.2932,4772
+"banano","arcilloso","gravedad","mixta","bajo",7643,21122,2.7636,4029
+"arroz","franco-arcilloso","aspersión","mixta","bajo",6695,7965,1.1897,3214
+"melón","arenoso","goteo","química","medio",6072,10798,1.7783,4599
+"arroz","franco-arcilloso","goteo","mixta","bajo",6731,7462,1.1086,4557
+"banano","arcilloso","aspersión","química","bajo",7682,25425,3.3097,5387
+"plátano verde","arenoso","gravedad","mixta","bajo",6275,22471,3.581,3507
+"banano","franco","aspersión","química","bajo",7201,22884,3.1779,5020
+"cacao","arcilloso","gravedad","mixta","alto",7338,1563,0.213,3123
+"sandía","franco","gravedad","orgánica","medio",5263,11674,2.2181,4707
+"arroz","arenoso","aspersión","orgánica","medio",5718,6554,1.1462,3959
+"maíz","franco-arcilloso","gravedad","química","bajo",10740,9206,0.8572,3887
+"melón","arcilloso","goteo","química","medio",5708,11259,1.9725,2581
+"banano","franco-arcilloso","gravedad","química","medio",6588,24220,3.6764,3760
+"banano","franco-arcilloso","gravedad","química","bajo",8079,20188,2.4988,3146
+"sandía","franco-arcilloso","gravedad","orgánica","bajo",6992,13245,1.8943,3167
+"plátano verde","arenoso","goteo","orgánica","medio",4448,23278,5.2334,4799
+"maíz","franco","gravedad","orgánica","medio",7883,8314,1.0547,3335
+"cacao","arenoso","gravedad","mixta","medio",6493,1575,0.2426,4194
+"sandía","arcilloso","aspersión","mixta","medio",6094,13231,2.1712,3239
+"maíz","franco","aspersión","mixta","alto",8541,8635,1.011,3481
+"banano","arenoso","goteo","mixta","bajo",6910,18256,2.642,4711
+"arroz","arenoso","goteo","orgánica","alto",5134,9947,1.9375,3067
+"maíz","franco","goteo","orgánica","alto",8444,9763,1.1562,3587
+"sandía","arenoso","gravedad","química","medio",5705,11662,2.0442,3157
+"cacao","arcilloso","goteo","química","medio",6238,1623,0.2602,4285
+"plátano verde","arcilloso","gravedad","mixta","medio",7138,19046,2.6683,3989
+"plátano verde","arcilloso","goteo","química","medio",7201,23265,3.2308,2122
+"maíz","arcilloso","gravedad","mixta","bajo",8191,8631,1.0537,2809
+"cacao","arenoso","gravedad","orgánica","medio",9018,1721,0.1908,4121
+"plátano verde","franco","aspersión","orgánica","bajo",8951,18022,2.0134,3170
+"maíz","arcilloso","aspersión","mixta","bajo",4461,8687,1.9473,5085
+"arroz","franco","goteo","química","medio",6680,7915,1.1849,3367
+"maíz","arenoso","aspersión","química","alto",5531,9612,1.7378,4994
+"plátano verde","arenoso","aspersión","química","medio",8987,13465,1.4983,3413
+"arroz","franco","aspersión","química","medio",7803,7753,0.9936,3630
+"banano","franco","gravedad","orgánica","medio",7581,20102,2.6516,5074
+"arroz","franco","gravedad","orgánica","medio",8537,7843,0.9187,4133
+"banano","arcilloso","goteo","química","medio",8089,25869,3.198,3041
+"cacao","arcilloso","goteo","mixta","medio",6766,1338,0.1978,4393
+"cacao","arcilloso","goteo","mixta","bajo",6837,1356,0.1983,3336
+"banano","franco-arcilloso","goteo","química","medio",5857,28222,4.8185,4280
+"cacao","arcilloso","aspersión","química","medio",12817,765,0.0597,2684
+"cacao","arcilloso","aspersión","orgánica","bajo",6079,1354,0.2227,3670
+"maíz","franco-arcilloso","goteo","orgánica","medio",4836,9681,2.0019,4967
+"sandía","franco-arcilloso","goteo","mixta","medio",4954,12251,2.473,4386
+"arroz","franco","gravedad","orgánica","bajo",3498,6417,1.8345,4027
+"arroz","arcilloso","aspersión","orgánica","bajo",4905,7690,1.5678,5270
+"maíz","arcilloso","goteo","química","alto",7078,8233,1.1632,4587
+"sandía","franco","gravedad","química","medio",6613,10683,1.6155,4209
+"maíz","arcilloso","goteo","orgánica","bajo",6621,7346,1.1095,3030
+"maíz","franco-arcilloso","gravedad","química","bajo",8776,8126,0.9259,4114
+"arroz","arcilloso","goteo","química","bajo",6101,7676,1.2582,6278
+"banano","franco-arcilloso","gravedad","química","medio",8488,25431,2.9961,4431
+"cacao","arcilloso","gravedad","orgánica","bajo",7456,1270,0.1703,3148
+"melón","arcilloso","goteo","química","alto",7690,11197,1.456,3674
+"banano","franco","goteo","química","bajo",6281,28003,4.4584,3648
+"arroz","arcilloso","gravedad","química","medio",9370,5277,0.5632,4324
+"melón","arcilloso","aspersión","química","medio",5531,9172,1.6583,5059
+"banano","arenoso","gravedad","mixta","bajo",8262,26371,3.1918,3003
+"cacao","franco-arcilloso","aspersión","química","alto",6653,1390,0.2089,3088
+"banano","arcilloso","gravedad","química","bajo",6209,25725,4.1432,3163
+"arroz","franco","gravedad","orgánica","medio",6687,10078,1.5071,4978
+"cacao","franco-arcilloso","goteo","mixta","bajo",7350,1646,0.2239,4089
+"plátano verde","arcilloso","gravedad","mixta","medio",6260,24160,3.8594,4031
+"cacao","franco-arcilloso","aspersión","química","medio",5965,1449,0.2429,3797
+"cacao","arcilloso","goteo","mixta","alto",6833,1410,0.2064,3786
+"sandía","arcilloso","goteo","química","alto",5270,13536,2.5685,2873
+"sandía","arenoso","gravedad","mixta","alto",9286,11467,1.2349,3782
+"plátano verde","arcilloso","gravedad","mixta","bajo",7123,23129,3.2471,3086
+"banano","franco","goteo","química","medio",3311,25332,7.6509,5732
+"plátano verde","arenoso","gravedad","química","medio",7795,20338,2.6091,3682
+"sandía","franco","gravedad","orgánica","medio",7296,11017,1.51,4779
+"melón","franco","gravedad","mixta","alto",8880,10559,1.1891,3393
+"arroz","franco","aspersión","orgánica","medio",7995,6845,0.8562,5417
+"cacao","franco-arcilloso","gravedad","química","alto",8627,1559,0.1807,4695
+"banano","arenoso","gravedad","orgánica","medio",7661,22965,2.9977,3715
+"arroz","arcilloso","aspersión","química","alto",5897,8914,1.5116,4854
+"cacao","franco-arcilloso","gravedad","orgánica","medio",12684,898,0.0708,3594
+"arroz","franco-arcilloso","gravedad","orgánica","alto",5004,9937,1.9858,3449
+"sandía","franco","goteo","mixta","alto",4795,12666,2.6415,3986
+"maíz","arcilloso","gravedad","química","medio",8168,10850,1.3284,4439
+"cacao","franco-arcilloso","goteo","química","medio",6023,1301,0.216,3015
+"banano","arcilloso","gravedad","mixta","bajo",7424,27069,3.6461,3124
+"banano","arenoso","aspersión","química","medio",8528,28310,3.3197,2899
+"cacao","arcilloso","goteo","química","alto",6243,1564,0.2505,4162
+"cacao","franco","goteo","orgánica","bajo",5530,1330,0.2405,4407
+"plátano verde","arenoso","gravedad","mixta","bajo",9164,17723,1.934,4998
+"banano","arenoso","aspersión","mixta","medio",7949,26005,3.2715,4296
+"maíz","franco","goteo","química","medio",6427,9179,1.4282,2157
+"plátano verde","franco","aspersión","mixta","medio",7694,21129,2.7462,3102
+"cacao","franco","goteo","orgánica","bajo",6790,1313,0.1934,4540
+"melón","franco","aspersión","orgánica","medio",7135,10317,1.446,3922
+"plátano verde","franco","aspersión","orgánica","medio",8157,24424,2.9942,3693
+"banano","franco","aspersión","química","alto",4379,28070,6.4101,4194
+"plátano verde","arcilloso","aspersión","química","alto",6430,24720,3.8445,3453
+"maíz","arcilloso","goteo","mixta","medio",6792,9339,1.375,4765
+"banano","arenoso","gravedad","química","medio",8059,26347,3.2693,3527
+"banano","franco-arcilloso","goteo","química","medio",5342,27016,5.0573,4343
+"maíz","franco-arcilloso","goteo","mixta","medio",5009,9347,1.866,4583
+"cacao","arenoso","gravedad","mixta","alto",9435,916,0.0971,4089
+"plátano verde","arenoso","aspersión","química","medio",6713,21449,3.1951,4350
+"maíz","arenoso","aspersión","orgánica","medio",5267,9599,1.8225,3894
+"cacao","franco","goteo","química","medio",5619,1679,0.2988,4583
+"plátano verde","franco","gravedad","orgánica","medio",6904,17393,2.5193,4544
+"banano","franco-arcilloso","goteo","mixta","alto",7525,27789,3.6929,2433
+"sandía","franco","aspersión","mixta","bajo",4521,9543,2.1108,4136
+"cacao","franco","goteo","química","medio",6750,1729,0.2561,4656
+"cacao","franco","aspersión","química","medio",7351,1424,0.1937,4001
+"sandía","arcilloso","goteo","química","bajo",7717,9830,1.2738,4326
+"melón","arcilloso","goteo","orgánica","medio",6686,9590,1.4343,3724
+"melón","arenoso","aspersión","orgánica","medio",5994,10129,1.6899,3999
+"cacao","arcilloso","goteo","mixta","medio",6227,1209,0.1942,3703
+"maíz","franco-arcilloso","gravedad","química","medio",6599,10853,1.6446,2567
+"maíz","franco-arcilloso","aspersión","química","bajo",10561,9219,0.8729,3665
+"maíz","franco-arcilloso","goteo","orgánica","bajo",8466,8995,1.0625,2993
+"maíz","arcilloso","gravedad","química","bajo",9707,8610,0.887,4029
+"arroz","franco-arcilloso","aspersión","mixta","bajo",8086,8335,1.0308,4120
+"maíz","arenoso","aspersión","química","alto",5980,10846,1.8137,4489
+"plátano verde","arenoso","gravedad","mixta","medio",7120,23180,3.2556,3306
+"melón","franco-arcilloso","aspersión","química","alto",5708,13707,2.4014,4835
+"maíz","franco","goteo","química","medio",6160,9717,1.5774,4824
+"plátano verde","franco","gravedad","orgánica","alto",9430,22887,2.427,2647
+"melón","arenoso","goteo","mixta","medio",8986,9335,1.0388,3022
+"cacao","arenoso","aspersión","química","medio",6938,1265,0.1823,3953
+"cacao","franco-arcilloso","gravedad","mixta","bajo",7209,1298,0.1801,5199
+"cacao","franco","gravedad","mixta","medio",5901,1007,0.1706,2702
+"banano","franco","gravedad","mixta","alto",5790,22351,3.8603,4422
+"plátano verde","franco-arcilloso","goteo","orgánica","alto",5197,22191,4.27,2946
+"arroz","arenoso","aspersión","química","alto",3643,7900,2.1685,4301
+"plátano verde","arenoso","aspersión","química","medio",6371,23450,3.6807,4516
+"sandía","arenoso","aspersión","mixta","bajo",7426,10385,1.3985,2784
+"cacao","arcilloso","gravedad","orgánica","medio",9244,1296,0.1402,4082
+"sandía","franco-arcilloso","goteo","mixta","medio",6392,12672,1.9825,3414
+"banano","franco-arcilloso","aspersión","mixta","bajo",8482,26398,3.1122,4311
+"cacao","franco-arcilloso","aspersión","mixta","alto",5011,1385,0.2764,3876
+"sandía","arcilloso","goteo","mixta","medio",5603,13076,2.3337,4683
+"plátano verde","franco","gravedad","mixta","medio",6253,25692,4.1087,4820
+"banano","franco","gravedad","química","bajo",9277,21695,2.3386,5396
+"arroz","franco","aspersión","química","bajo",7450,8098,1.087,5074
+"plátano verde","arcilloso","aspersión","mixta","bajo",6496,21849,3.3635,4085
+"sandía","franco","gravedad","orgánica","bajo",7156,13342,1.8644,4285
+"maíz","franco","goteo","química","alto",4750,10083,2.1227,2792
+"banano","arenoso","gravedad","química","bajo",7285,21198,2.9098,3913
+"banano","arcilloso","gravedad","mixta","medio",6373,24508,3.8456,1975
+"arroz","arcilloso","aspersión","mixta","medio",6876,7680,1.1169,4259
+"cacao","franco","gravedad","mixta","bajo",8710,1541,0.1769,4548
+"melón","arcilloso","aspersión","química","alto",6835,11408,1.6691,3711
+"banano","arcilloso","goteo","orgánica","medio",7044,22172,3.1476,3427
+"melón","franco","aspersión","orgánica","medio",7207,10184,1.4131,2323
+"plátano verde","franco","aspersión","química","bajo",6729,20100,2.9871,4413
+"banano","arcilloso","goteo","mixta","medio",7646,24386,3.1894,3595
+"arroz","arenoso","gravedad","orgánica","medio",8371,7588,0.9065,3655
+"melón","franco","gravedad","química","medio",6734,12225,1.8154,4040
+"melón","arcilloso","gravedad","orgánica","alto",8210,9792,1.1927,4416
+"banano","franco-arcilloso","aspersión","mixta","bajo",7058,25082,3.5537,3043
+"plátano verde","arenoso","aspersión","química","medio",17755,12437,0.7005,3354
+"maíz","arcilloso","goteo","orgánica","alto",6618,8077,1.2205,2510
+"plátano verde","franco","goteo","mixta","medio",7052,19889,2.8203,5367
+"sandía","arenoso","aspersión","orgánica","alto",5483,12721,2.3201,4880
+"banano","franco-arcilloso","aspersión","química","medio",5639,27664,4.9058,3578
+"maíz","franco","goteo","química","medio",6684,8482,1.269,4558
+"maíz","arenoso","goteo","orgánica","alto",5791,11001,1.8997,3729
+"cacao","arcilloso","goteo","química","bajo",6453,1466,0.2272,2848
+"arroz","arcilloso","gravedad","mixta","alto",6474,8605,1.3292,4519
+"arroz","franco","goteo","química","alto",6135,8794,1.4334,4588
+"arroz","arcilloso","gravedad","orgánica","alto",8290,8898,1.0733,4075
+"sandía","franco","goteo","química","medio",7358,9986,1.3572,4701
+"sandía","franco","aspersión","química","alto",6399,10965,1.7135,2077
+"sandía","arcilloso","aspersión","química","medio",3443,12617,3.6645,3567
+"cacao","franco","goteo","orgánica","bajo",8299,1445,0.1741,5316
+"cacao","arenoso","goteo","orgánica","bajo",8277,1477,0.1784,2743
+"sandía","arcilloso","aspersión","mixta","medio",9279,11509,1.2403,3843
+"banano","arenoso","gravedad","química","alto",4638,26384,5.6887,5002
+"banano","franco-arcilloso","gravedad","química","medio",7240,19454,2.687,4177
+"melón","franco","goteo","orgánica","medio",6828,10672,1.563,3960
+"maíz","arenoso","goteo","química","medio",7017,8594,1.2247,3852
+"banano","arcilloso","aspersión","mixta","alto",7374,27777,3.7669,3431
+"sandía","arcilloso","goteo","química","medio",10960,4717,0.4304,4248
+"plátano verde","franco-arcilloso","goteo","química","medio",6863,21711,3.1635,3189
+"melón","franco","aspersión","orgánica","medio",5500,9900,1.8,3781
+"banano","arcilloso","goteo","mixta","bajo",4988,21621,4.3346,4460
+"maíz","franco","gravedad","mixta","bajo",6570,8840,1.3455,3781
+"melón","franco","goteo","mixta","bajo",7339,9209,1.2548,3805
+"cacao","franco","gravedad","orgánica","medio",8240,1198,0.1454,4185
+"arroz","franco","gravedad","química","bajo",7269,8302,1.1421,4167
+"arroz","arcilloso","goteo","química","alto",4421,8530,1.9294,4089
+"melón","franco-arcilloso","aspersión","mixta","alto",6516,9598,1.473,3826
+"plátano verde","arcilloso","goteo","mixta","bajo",6252,21537,3.4448,5306
+"plátano verde","franco-arcilloso","aspersión","orgánica","medio",6224,19900,3.1973,3527
+"maíz","arenoso","aspersión","química","bajo",13390,4896,0.3656,3902
+"melón","arenoso","goteo","mixta","bajo",6321,10236,1.6194,4127
+"cacao","franco-arcilloso","aspersión","orgánica","medio",6912,1525,0.2206,3936
+"banano","franco","aspersión","mixta","medio",9871,19509,1.9764,3902
+"cacao","franco","goteo","orgánica","alto",7375,1582,0.2145,3597
+"melón","franco-arcilloso","aspersión","mixta","bajo",6473,7788,1.2032,4594
+"plátano verde","arcilloso","gravedad","mixta","bajo",6755,19607,2.9026,3529
+"maíz","franco-arcilloso","gravedad","orgánica","bajo",10255,7691,0.75,3885
+"melón","franco-arcilloso","aspersión","química","bajo",7342,9527,1.2976,3982
+"banano","arenoso","goteo","química","alto",4518,32067,7.0976,4056
+"banano","franco","aspersión","orgánica","alto",6580,28689,4.36,3967
+"sandía","arenoso","goteo","mixta","bajo",5233,11335,2.1661,2729
+"banano","arenoso","goteo","química","alto",4461,28331,6.3508,2840
+"sandía","franco","gravedad","mixta","bajo",7562,11973,1.5833,3885
+"plátano verde","arenoso","gravedad","mixta","medio",5815,20340,3.4979,2865
+"plátano verde","franco","goteo","orgánica","medio",4834,21779,4.5054,2205
+"cacao","arenoso","goteo","mixta","bajo",5816,1415,0.2433,3609
+"plátano verde","franco-arcilloso","gravedad","química","alto",8128,21695,2.6692,4443
+"plátano verde","arenoso","gravedad","química","alto",7067,21685,3.0685,4508
+"arroz","franco","goteo","orgánica","alto",6620,9187,1.3878,4077
+"banano","arcilloso","gravedad","orgánica","medio",7277,23374,3.212,2526
+"banano","franco","aspersión","orgánica","medio",6759,25351,3.7507,2904
+"melón","franco","aspersión","orgánica","medio",7588,8773,1.1562,2992
+"cacao","arenoso","gravedad","mixta","bajo",5734,1379,0.2405,3404
+"banano","arenoso","gravedad","orgánica","medio",8245,27013,3.2763,5134
+"arroz","franco-arcilloso","goteo","mixta","medio",6722,7885,1.173,3052
+"plátano verde","franco","goteo","química","alto",6041,18968,3.1399,3236
+"arroz","franco-arcilloso","aspersión","mixta","medio",5390,8770,1.6271,4230
+"banano","arenoso","gravedad","orgánica","medio",5454,26861,4.925,3230
+"plátano verde","franco-arcilloso","goteo","mixta","bajo",13879,7809,0.5626,5474
+"plátano verde","arcilloso","gravedad","orgánica","bajo",8545,19719,2.3077,4384
+"arroz","arenoso","gravedad","orgánica","medio",8737,8475,0.97,4545
+"banano","franco","goteo","orgánica","bajo",8923,20555,2.3036,4020
+"arroz","arcilloso","gravedad","mixta","medio",8481,7867,0.9276,4330
+"sandía","franco","goteo","química","bajo",6432,14633,2.275,2948
+"banano","arenoso","aspersión","orgánica","medio",6361,22055,3.4672,2603
+"banano","franco","goteo","orgánica","medio",6637,23513,3.5427,3527
+"sandía","arcilloso","goteo","mixta","bajo",5436,11164,2.0537,3216
+"sandía","arenoso","aspersión","química","alto",4379,13055,2.9813,2643
+"banano","arenoso","goteo","mixta","medio",7375,23973,3.2506,3995
+"melón","arcilloso","gravedad","química","medio",5767,8003,1.3877,3011
+"melón","arcilloso","gravedad","química","alto",6751,12139,1.7981,2890
+"cacao","arcilloso","gravedad","mixta","bajo",7186,1566,0.2179,4054
+"melón","franco","aspersión","orgánica","medio",6136,10250,1.6705,3915
+"sandía","franco","goteo","mixta","medio",7805,11703,1.4994,3343
+"melón","arcilloso","gravedad","orgánica","bajo",7548,8994,1.1916,4633
+"sandía","franco-arcilloso","aspersión","orgánica","bajo",9753,12478,1.2794,3496
+"cacao","arcilloso","goteo","química","alto",7200,1588,0.2206,2372
+"plátano verde","franco","aspersión","orgánica","medio",4917,24055,4.8922,4054
+"sandía","franco-arcilloso","aspersión","mixta","alto",6808,10942,1.6072,4571
+"maíz","arcilloso","aspersión","mixta","bajo",7562,7404,0.9791,4704
+"plátano verde","franco-arcilloso","gravedad","orgánica","medio",7724,17210,2.2281,4531
+"plátano verde","arcilloso","aspersión","orgánica","bajo",7534,19328,2.5654,2904
+"arroz","arenoso","gravedad","mixta","medio",7496,7987,1.0655,4333
+"maíz","arcilloso","goteo","orgánica","medio",7500,10163,1.3551,4816
+"arroz","franco","gravedad","orgánica","alto",6199,7856,1.2673,2578
+"plátano verde","arenoso","aspersión","mixta","alto",4449,23362,5.2511,3016
+"sandía","arenoso","gravedad","química","bajo",6222,9837,1.581,5234
+"banano","franco-arcilloso","aspersión","orgánica","bajo",7671,20220,2.6359,3946
+"cacao","arcilloso","gravedad","orgánica","alto",7686,1451,0.1888,5237
+"melón","franco","gravedad","orgánica","medio",9398,9896,1.053,5749
+"sandía","arenoso","goteo","química","medio",7420,12284,1.6555,4372
+"maíz","franco-arcilloso","aspersión","mixta","alto",6003,9353,1.5581,3175
+"arroz","arcilloso","gravedad","orgánica","alto",7702,8211,1.0661,4941
+"banano","franco","aspersión","mixta","alto",7133,24789,3.4753,4662
+"plátano verde","arenoso","aspersión","orgánica","alto",7966,25259,3.1709,3148
+"arroz","arcilloso","goteo","química","bajo",6916,6538,0.9453,4715
+"melón","franco","goteo","orgánica","medio",7623,11938,1.5661,5592
+"banano","arcilloso","aspersión","química","medio",5326,27274,5.1209,5563
+"cacao","arcilloso","aspersión","orgánica","medio",7847,1458,0.1858,2575
+"plátano verde","arcilloso","aspersión","mixta","medio",6986,19185,2.7462,4530
+"maíz","franco-arcilloso","aspersión","mixta","medio",5951,7914,1.3299,4182
+"plátano verde","franco","gravedad","química","bajo",9628,19247,1.9991,2753
+"plátano verde","franco","goteo","mixta","alto",5414,28597,5.282,3392
+"melón","franco-arcilloso","aspersión","mixta","medio",6587,9353,1.4199,4059
+"melón","arenoso","aspersión","química","alto",5003,10072,2.0132,3155
+"melón","franco-arcilloso","gravedad","química","bajo",7109,9180,1.2913,3806
+"melón","franco","goteo","mixta","bajo",5630,10287,1.8272,4521
+"banano","franco","gravedad","mixta","medio",5729,22322,3.8963,4400
+"sandía","arenoso","goteo","orgánica","bajo",5971,11034,1.8479,3208
+"cacao","franco-arcilloso","goteo","orgánica","medio",6346,1303,0.2053,4278
+"arroz","arenoso","goteo","orgánica","bajo",8498,7651,0.9003,2918
+"maíz","franco","aspersión","mixta","bajo",6394,9197,1.4384,3886
+"plátano verde","arcilloso","goteo","mixta","medio",6122,21425,3.4997,2958
+"plátano verde","arcilloso","gravedad","mixta","medio",8324,19537,2.3471,3697
+"banano","franco-arcilloso","aspersión","mixta","alto",6494,21647,3.3334,3765
+"banano","arcilloso","goteo","química","medio",8775,22630,2.5789,5210
+"maíz","franco-arcilloso","aspersión","mixta","bajo",9019,10010,1.1099,4510
+"arroz","franco","goteo","química","bajo",7149,8606,1.2038,3589
+"maíz","franco-arcilloso","aspersión","orgánica","medio",7700,9604,1.2473,4254
+"melón","arenoso","goteo","química","medio",7145,9650,1.3506,2683
+"banano","arcilloso","goteo","química","bajo",7847,20362,2.5949,4002
+"arroz","arcilloso","aspersión","química","bajo",5152,7623,1.4796,3945
+"plátano verde","franco-arcilloso","gravedad","mixta","bajo",6967,20704,2.9717,3588
+"melón","franco-arcilloso","goteo","mixta","medio",8741,11116,1.2717,3392
+"plátano verde","arcilloso","goteo","mixta","medio",7527,19439,2.5826,2050
+"arroz","arcilloso","aspersión","química","medio",6875,6237,0.9072,4679
+"melón","arenoso","goteo","mixta","alto",5472,9436,1.7244,3723
+"maíz","franco-arcilloso","gravedad","química","medio",6382,9050,1.4181,3802
+"maíz","franco","aspersión","mixta","alto",15935,2614,0.164,2284
+"plátano verde","franco-arcilloso","aspersión","orgánica","alto",6363,24943,3.92,3585
+"sandía","arenoso","goteo","química","medio",6178,10901,1.7645,5379
+"arroz","arenoso","aspersión","mixta","medio",5374,6848,1.2743,2632
+"sandía","arenoso","gravedad","orgánica","bajo",7090,10031,1.4148,3191
+"melón","franco","aspersión","química","alto",6997,9709,1.3876,3507
+"maíz","franco-arcilloso","goteo","orgánica","medio",6710,8821,1.3146,4037
+"sandía","arenoso","gravedad","orgánica","medio",5074,12773,2.5173,4067
+"melón","franco-arcilloso","aspersión","química","medio",9516,8394,0.8821,5713
+"cacao","franco-arcilloso","goteo","orgánica","medio",5785,1286,0.2223,4107
+"sandía","franco-arcilloso","gravedad","mixta","medio",7820,12255,1.5671,3563
+"cacao","franco-arcilloso","aspersión","orgánica","medio",6859,1537,0.2241,5503
+"cacao","franco-arcilloso","aspersión","mixta","alto",4594,1238,0.2695,2018
+"melón","arenoso","goteo","orgánica","medio",8907,8108,0.9103,3275
+"banano","franco-arcilloso","gravedad","química","medio",4380,29917,6.8304,3182
+"sandía","franco-arcilloso","gravedad","mixta","medio",6454,11132,1.7248,2982
+"cacao","arenoso","aspersión","química","medio",6568,1538,0.2342,4367
+"plátano verde","arenoso","goteo","orgánica","bajo",6375,21843,3.4264,4130
+"plátano verde","franco","gravedad","química","alto",7163,23950,3.3436,4669
+"arroz","arcilloso","aspersión","orgánica","medio",4149,6633,1.5987,4401
+"arroz","arenoso","gravedad","mixta","alto",7876,8365,1.0621,3349
+"cacao","franco","goteo","orgánica","medio",6900,1440,0.2087,3772
+"arroz","arenoso","aspersión","orgánica","medio",15413,4277,0.2775,5367
+"arroz","arenoso","gravedad","química","medio",7741,7005,0.9049,3696
+"sandía","franco","aspersión","química","medio",6721,9453,1.4065,5356
+"plátano verde","franco","gravedad","orgánica","alto",6539,24184,3.6984,3550
+"maíz","arenoso","aspersión","mixta","medio",6909,8722,1.2624,4208
+"melón","arcilloso","goteo","mixta","medio",5522,9970,1.8055,4595
+"plátano verde","arenoso","gravedad","mixta","medio",7413,18177,2.452,3847
+"cacao","arenoso","aspersión","mixta","medio",7169,1468,0.2048,3826
+"banano","franco-arcilloso","gravedad","orgánica","bajo",6606,20619,3.1213,3505
+"plátano verde","franco","goteo","orgánica","medio",6756,24568,3.6365,3937
+"cacao","arenoso","aspersión","química","medio",6314,1448,0.2293,4383
+"plátano verde","arenoso","aspersión","química","medio",5680,21948,3.8641,3006
+"arroz","franco-arcilloso","goteo","química","bajo",8880,6907,0.7778,3612
+"cacao","franco-arcilloso","aspersión","mixta","medio",7133,1599,0.2242,4793
+"maíz","franco-arcilloso","goteo","mixta","alto",7551,9469,1.254,3873
+"banano","franco","gravedad","mixta","medio",5432,25950,4.7772,2456
+"maíz","arenoso","goteo","química","medio",6796,8418,1.2387,3067
+"maíz","franco-arcilloso","goteo","mixta","medio",8797,8548,0.9717,3555
+"arroz","franco","goteo","orgánica","medio",6033,7531,1.2483,2589
+"arroz","franco-arcilloso","gravedad","orgánica","bajo",6806,6782,0.9965,3701
+"cacao","franco","gravedad","mixta","bajo",8939,1272,0.1423,3569
+"sandía","franco","goteo","química","bajo",8176,10683,1.3066,5060
+"plátano verde","arcilloso","aspersión","orgánica","medio",5581,21841,3.9135,1383
+"plátano verde","arenoso","aspersión","química","alto",6638,24555,3.6992,3412
+"plátano verde","arcilloso","gravedad","química","alto",7968,23945,3.0051,4791
+"banano","franco-arcilloso","aspersión","química","medio",7397,24665,3.3345,3564
+"banano","franco","aspersión","química","bajo",13410,7554,0.5633,3593
+"cacao","arenoso","gravedad","química","bajo",6080,1325,0.2179,5235
+"cacao","arenoso","aspersión","mixta","medio",6133,1558,0.254,4145
+"maíz","franco","aspersión","química","alto",6433,9461,1.4707,3458
+"melón","franco-arcilloso","goteo","química","alto",5635,10299,1.8277,4093
+"banano","franco","gravedad","orgánica","alto",5441,25577,4.7008,4310
+"arroz","franco","goteo","mixta","bajo",12616,2023,0.1604,3620
+"banano","franco-arcilloso","gravedad","mixta","alto",5910,28082,4.7516,2946
+"sandía","arenoso","aspersión","orgánica","medio",6753,13130,1.9443,3184
+"melón","franco","goteo","química","bajo",8878,9826,1.1068,5445
+"plátano verde","franco","gravedad","química","medio",7599,23859,3.1398,4423
+"plátano verde","arcilloso","goteo","química","alto",6715,23766,3.5392,3607
+"arroz","franco","goteo","orgánica","medio",7582,7295,0.9621,3847
+"melón","arenoso","aspersión","orgánica","bajo",5784,10992,1.9004,5330
+"banano","arcilloso","gravedad","orgánica","medio",6456,26563,4.1145,3792
+"plátano verde","arenoso","aspersión","química","alto",7020,18973,2.7027,3672
+"melón","franco","aspersión","orgánica","medio",9028,9998,1.1074,3696
+"banano","arcilloso","goteo","orgánica","medio",6821,24399,3.577,4297
+"sandía","franco-arcilloso","goteo","química","medio",6633,13429,2.0246,5724
+"plátano verde","arcilloso","goteo","química","medio",9522,23960,2.5163,4235
+"cacao","arenoso","aspersión","orgánica","bajo",9944,1355,0.1363,4303
+"arroz","arenoso","goteo","mixta","bajo",7685,8578,1.1162,4418
+"arroz","arenoso","goteo","mixta","medio",7015,7452,1.0623,4304
+"maíz","franco","gravedad","química","medio",7910,8723,1.1028,4908
+"cacao","franco","gravedad","orgánica","alto",5268,1573,0.2986,4351
+"plátano verde","franco-arcilloso","goteo","mixta","medio",6822,21559,3.1602,2948
+"sandía","arcilloso","gravedad","química","alto",6015,13972,2.3229,3745
+"arroz","arcilloso","gravedad","química","medio",5853,7853,1.3417,4632
+"cacao","arcilloso","aspersión","mixta","alto",5320,1413,0.2656,4026
+"melón","franco-arcilloso","goteo","mixta","bajo",6798,9024,1.3274,2738
+"sandía","arcilloso","aspersión","mixta","medio",4900,12340,2.5184,3215
+"sandía","arenoso","goteo","mixta","medio",6200,11573,1.8666,3203
+"maíz","franco-arcilloso","aspersión","mixta","alto",7312,8401,1.1489,3994
+"cacao","franco-arcilloso","goteo","orgánica","alto",4635,1441,0.3109,4867
+"sandía","arenoso","gravedad","química","alto",4885,13202,2.7026,2877
+"melón","arcilloso","gravedad","orgánica","bajo",8543,9220,1.0792,3780
+"cacao","arcilloso","goteo","orgánica","alto",7833,1439,0.1837,2936
+"melón","arenoso","goteo","orgánica","bajo",6117,10387,1.6981,4357
+"banano","franco-arcilloso","goteo","orgánica","bajo",11661,9790,0.8396,3504
+"arroz","franco","aspersión","mixta","medio",5242,8052,1.5361,4991
+"arroz","arcilloso","aspersión","mixta","medio",6704,7490,1.1172,4258
+"arroz","franco-arcilloso","gravedad","química","bajo",6529,9721,1.4889,3400
+"arroz","franco","aspersión","orgánica","medio",4535,8623,1.9014,1962
+"sandía","franco-arcilloso","gravedad","orgánica","bajo",8879,11283,1.2708,5806
+"plátano verde","arenoso","aspersión","mixta","alto",10354,13544,1.3081,4324
+"sandía","franco-arcilloso","aspersión","mixta","medio",7415,13092,1.7656,4198
+"cacao","franco-arcilloso","aspersión","mixta","medio",5465,1262,0.2309,2692
+"cacao","franco-arcilloso","aspersión","química","medio",5769,1582,0.2742,3997
+"plátano verde","arenoso","gravedad","mixta","medio",6104,23747,3.8904,3666
+"banano","franco-arcilloso","gravedad","química","bajo",7931,25357,3.1972,4675
+"banano","arenoso","gravedad","química","alto",5225,24426,4.6748,5163
+"banano","arcilloso","gravedad","mixta","alto",5940,27529,4.6345,4785
+"plátano verde","franco-arcilloso","aspersión","orgánica","alto",6166,24672,4.0013,2654
+"melón","franco","aspersión","mixta","alto",9381,10631,1.1332,5251
+"melón","franco-arcilloso","gravedad","química","medio",7821,10601,1.3555,3851
+"cacao","arcilloso","gravedad","mixta","medio",4773,1525,0.3195,2832
+"arroz","arenoso","gravedad","orgánica","medio",7187,6799,0.946,4856
+"cacao","arcilloso","gravedad","mixta","medio",8328,1348,0.1619,4861
+"sandía","arenoso","gravedad","mixta","medio",7447,14286,1.9184,4856
+"melón","franco","gravedad","orgánica","medio",8969,8150,0.9087,4111
+"banano","arenoso","goteo","orgánica","alto",4655,29315,6.2975,2924
+"sandía","arcilloso","gravedad","química","alto",6930,14818,2.1382,4516
+"maíz","arcilloso","aspersión","mixta","medio",8787,8473,0.9643,3489
+"melón","franco-arcilloso","aspersión","mixta","bajo",7981,7639,0.9571,4047
+"maíz","franco","aspersión","mixta","medio",7020,9527,1.3571,4604
+"banano","franco-arcilloso","gravedad","química","medio",6652,28869,4.3399,6307
+"maíz","arenoso","aspersión","orgánica","medio",5534,8044,1.4536,4752
+"plátano verde","arenoso","goteo","química","bajo",5559,20731,3.7293,4039
+"cacao","franco-arcilloso","goteo","química","medio",5928,1692,0.2854,4080
+"melón","franco","gravedad","química","medio",6523,7300,1.1191,4493
+"arroz","franco","gravedad","química","medio",9155,7362,0.8042,4679
+"melón","franco-arcilloso","goteo","química","alto",4957,8778,1.7708,4368
+"banano","arcilloso","aspersión","orgánica","alto",8519,32160,3.7751,5343
+"maíz","arcilloso","aspersión","química","medio",7270,7808,1.074,3365
+"arroz","franco","gravedad","orgánica","medio",7677,8072,1.0515,4561
+"melón","franco","goteo","orgánica","medio",7402,10489,1.417,3525
+"maíz","arenoso","goteo","orgánica","bajo",8946,8361,0.9346,3590
+"melón","arenoso","goteo","orgánica","medio",6722,9177,1.3652,3270
+"arroz","arenoso","gravedad","mixta","bajo",8170,7186,0.8796,4617
+"banano","franco","goteo","orgánica","medio",7208,27054,3.7533,4068
+"sandía","arcilloso","aspersión","mixta","alto",6323,15361,2.4294,4140
+"melón","franco-arcilloso","aspersión","química","medio",7806,10613,1.3596,2526
+"cacao","arcilloso","gravedad","mixta","bajo",7212,1540,0.2135,3504
+"melón","franco","gravedad","orgánica","alto",6125,10049,1.6407,3641
+"plátano verde","arenoso","aspersión","mixta","bajo",6680,21875,3.2747,3663
+"maíz","franco-arcilloso","goteo","química","medio",6869,9575,1.3939,2812
+"arroz","franco-arcilloso","goteo","química","medio",6946,7363,1.06,5384
+"arroz","franco-arcilloso","aspersión","química","bajo",5692,7618,1.3384,3473
+"banano","franco","gravedad","orgánica","medio",7254,25083,3.4578,5783
+"cacao","franco","aspersión","química","bajo",7110,1391,0.1956,5210
+"cacao","arenoso","goteo","orgánica","medio",5394,1378,0.2555,4592
+"plátano verde","franco","aspersión","química","medio",6830,20580,3.0132,4797
+"banano","franco-arcilloso","aspersión","orgánica","medio",7335,25893,3.5301,4681
+"melón","franco","aspersión","química","medio",8764,10191,1.1628,3950
+"cacao","arcilloso","goteo","mixta","alto",6145,1691,0.2752,3210
+"sandía","arenoso","aspersión","mixta","bajo",6681,12612,1.8877,4365
+"cacao","arcilloso","goteo","orgánica","medio",6484,1454,0.2242,2738
+"plátano verde","arenoso","aspersión","química","bajo",9210,17773,1.9298,5545
+"melón","franco","aspersión","mixta","medio",6654,8808,1.3237,4648
+"cacao","franco-arcilloso","aspersión","química","medio",8351,1406,0.1684,3449
+"banano","franco","goteo","orgánica","medio",5411,21195,3.917,4844
+"melón","arcilloso","gravedad","mixta","alto",6850,10593,1.5464,3523
+"cacao","arenoso","gravedad","mixta","medio",5825,1714,0.2942,3515
+"melón","franco","gravedad","orgánica","medio",7895,10283,1.3025,4541
+"sandía","arcilloso","aspersión","química","alto",6445,14389,2.2326,2966
+"cacao","franco","gravedad","mixta","medio",6179,1578,0.2554,3989
+"melón","franco-arcilloso","gravedad","química","alto",8526,11238,1.3181,3594
+"melón","franco-arcilloso","gravedad","orgánica","medio",8165,10283,1.2594,4190
+"banano","arenoso","goteo","química","medio",5523,28597,5.1778,3887
+"melón","arcilloso","aspersión","mixta","alto",4886,9907,2.0276,5369
+"sandía","franco-arcilloso","aspersión","química","medio",5138,12941,2.5187,4349
+"arroz","arenoso","aspersión","química","bajo",6025,6471,1.074,4690
+"maíz","franco-arcilloso","goteo","química","medio",10358,9920,0.9577,5408
+"banano","franco","goteo","orgánica","bajo",7958,23770,2.9869,3939
+"banano","franco-arcilloso","gravedad","orgánica","medio",7800,23218,2.9767,4039
+"cacao","arcilloso","aspersión","química","medio",8254,1438,0.1742,4950
+"cacao","franco","goteo","química","alto",6026,1564,0.2595,5292
+"banano","arenoso","gravedad","mixta","medio",8002,23440,2.9293,3625
+"plátano verde","arcilloso","goteo","química","bajo",7673,23820,3.1044,4017
+"plátano verde","franco","aspersión","mixta","medio",6234,20716,3.3231,3718
+"banano","arenoso","aspersión","orgánica","medio",6618,26184,3.9565,4116
+"maíz","franco","aspersión","orgánica","alto",4094,8047,1.9656,3999
+"cacao","arenoso","gravedad","química","alto",9149,1608,0.1758,4149
+"banano","arenoso","goteo","orgánica","medio",7662,21785,2.8433,3198
+"sandía","franco","gravedad","química","medio",8705,11527,1.3242,4073
+"arroz","arcilloso","aspersión","química","bajo",6908,7698,1.1144,2763
+"maíz","franco","goteo","mixta","medio",6373,8562,1.3435,3591
+"cacao","arcilloso","aspersión","química","medio",3230,1182,0.3659,3678
+"sandía","arcilloso","gravedad","mixta","medio",6249,13263,2.1224,4446
+"banano","arcilloso","aspersión","mixta","alto",7758,27483,3.5425,3766
+"cacao","arcilloso","goteo","orgánica","bajo",7820,1285,0.1643,4201
+"arroz","franco","aspersión","mixta","alto",5900,8404,1.4244,2822
+"melón","arcilloso","aspersión","orgánica","alto",5928,12003,2.0248,3208
+"cacao","franco-arcilloso","gravedad","mixta","medio",7521,1410,0.1875,4643
+"maíz","arenoso","gravedad","orgánica","medio",8468,7393,0.8731,4292
+"plátano verde","arenoso","aspersión","orgánica","medio",10237,22693,2.2168,3505
+"banano","franco-arcilloso","aspersión","orgánica","alto",6573,29455,4.4812,2662
+"arroz","arenoso","goteo","mixta","medio",7384,8287,1.1223,3668
+"arroz","franco-arcilloso","aspersión","mixta","medio",7376,7285,0.9877,4058
+"arroz","franco","aspersión","mixta","bajo",7084,6738,0.9512,3886
+"banano","arcilloso","gravedad","mixta","medio",6114,26173,4.2808,4838
+"banano","franco-arcilloso","aspersión","orgánica","medio",5725,26025,4.5459,4173
+"melón","franco-arcilloso","gravedad","química","medio",4639,10762,2.3199,3835
+"plátano verde","franco-arcilloso","gravedad","química","alto",5696,22441,3.9398,3859
+"melón","arenoso","goteo","mixta","medio",6944,11527,1.66,3803
+"banano","arenoso","goteo","mixta","medio",5692,23252,4.085,3055
+"banano","arenoso","goteo","orgánica","bajo",5924,27165,4.5856,3225
+"arroz","franco-arcilloso","gravedad","orgánica","bajo",8967,8357,0.932,2815
+"melón","franco-arcilloso","aspersión","química","alto",6119,11169,1.8253,2425
+"banano","arcilloso","aspersión","mixta","alto",8945,28337,3.1679,3350
+"arroz","franco","goteo","orgánica","medio",6336,8209,1.2956,3469
+"arroz","franco-arcilloso","gravedad","orgánica","medio",8262,7034,0.8514,3350
+"maíz","arcilloso","goteo","química","alto",5064,10959,2.1641,4709
+"arroz","franco-arcilloso","aspersión","orgánica","alto",6988,7579,1.0846,3619
+"sandía","franco","gravedad","química","medio",7184,9959,1.3863,4166
+"arroz","franco-arcilloso","aspersión","orgánica","alto",6792,9380,1.381,2783
+"sandía","arcilloso","gravedad","química","bajo",6720,10698,1.592,4928
+"sandía","arenoso","goteo","química","medio",5548,14283,2.5744,5101
+"plátano verde","arcilloso","aspersión","mixta","medio",6419,25195,3.9251,4681
+"melón","arenoso","gravedad","química","medio",5788,9157,1.5821,3943
+"banano","franco-arcilloso","aspersión","orgánica","medio",6236,25383,4.0704,2225
+"arroz","arcilloso","aspersión","mixta","alto",7790,9195,1.1804,4638
+"maíz","franco","gravedad","química","bajo",10048,8446,0.8406,3379
+"melón","franco-arcilloso","gravedad","química","alto",6861,10433,1.5206,3452
+"melón","arenoso","goteo","orgánica","medio",5071,8397,1.6559,3643
+"cacao","franco","aspersión","química","bajo",5120,1634,0.3191,2583
+"plátano verde","arcilloso","goteo","mixta","alto",8054,24841,3.0843,4537
+"plátano verde","arenoso","aspersión","orgánica","bajo",7958,18672,2.3463,4505
+"melón","franco","goteo","química","alto",6491,11664,1.7969,4612
+"maíz","arenoso","aspersión","orgánica","medio",5981,8587,1.4357,4843
+"arroz","franco","gravedad","orgánica","alto",8328,9350,1.1227,2655
+"cacao","arcilloso","goteo","mixta","medio",7719,1644,0.213,3995
+"arroz","franco-arcilloso","aspersión","mixta","alto",6385,9252,1.449,3623
+"melón","franco","aspersión","química","bajo",7798,9489,1.2169,3638
+"sandía","arcilloso","gravedad","orgánica","medio",5681,13540,2.3834,4656
+"banano","arcilloso","gravedad","orgánica","medio",8649,26434,3.0563,3082
+"plátano verde","franco-arcilloso","aspersión","orgánica","medio",8008,19326,2.4133,4707
+"banano","arcilloso","aspersión","orgánica","medio",6507,22510,3.4594,2999
+"cacao","franco","aspersión","orgánica","medio",5544,1744,0.3146,4816
+"plátano verde","arenoso","goteo","química","bajo",6366,18042,2.8341,3663
+"maíz","franco","gravedad","química","medio",6647,8083,1.216,5334
+"arroz","arenoso","goteo","química","medio",4495,8781,1.9535,5425
+"banano","arcilloso","aspersión","química","alto",7487,28171,3.7627,3939
+"plátano verde","franco-arcilloso","gravedad","mixta","bajo",8557,21893,2.5585,5288
+"sandía","franco-arcilloso","aspersión","mixta","alto",5388,11919,2.2121,3226
+"sandía","arcilloso","aspersión","orgánica","bajo",7706,10852,1.4083,3711
+"plátano verde","franco","gravedad","química","alto",6689,23567,3.5232,3098
+"arroz","arenoso","aspersión","química","medio",8026,8039,1.0016,4041
+"sandía","arenoso","aspersión","mixta","alto",7373,15058,2.0423,1990
+"arroz","franco","gravedad","mixta","medio",5183,10262,1.9799,3999
+"cacao","franco-arcilloso","gravedad","química","medio",7037,1420,0.2018,5223
+"sandía","franco","aspersión","química","bajo",5233,13767,2.6308,3082
+"cacao","franco-arcilloso","aspersión","química","medio",9023,1378,0.1527,4215
+"plátano verde","franco","gravedad","orgánica","medio",13767,10712,0.7781,4320
+"plátano verde","arcilloso","gravedad","mixta","medio",7901,25635,3.2445,4816
+"cacao","franco-arcilloso","aspersión","mixta","bajo",5753,1192,0.2072,4241
+"sandía","arenoso","gravedad","mixta","bajo",8863,14142,1.5956,3896
+"plátano verde","franco-arcilloso","gravedad","orgánica","bajo",8230,24565,2.9848,3827
+"cacao","franco","aspersión","mixta","alto",6727,1692,0.2515,3964
+"cacao","arcilloso","aspersión","química","bajo",8632,1467,0.1699,5130
+"banano","franco-arcilloso","aspersión","orgánica","medio",8057,25393,3.1517,3900
+"melón","arenoso","goteo","química","bajo",7758,10936,1.4096,3880
+"plátano verde","arcilloso","goteo","orgánica","medio",6599,20339,3.0821,3669
+"cacao","franco-arcilloso","aspersión","orgánica","alto",5812,1581,0.272,3384
+"melón","arenoso","gravedad","química","medio",7075,9854,1.3928,3068
+"melón","franco-arcilloso","goteo","mixta","bajo",7235,13228,1.8283,2831
+"sandía","franco","gravedad","orgánica","medio",8368,11288,1.3489,5304
+"maíz","franco-arcilloso","aspersión","orgánica","bajo",6495,7371,1.1349,3928
+"banano","arcilloso","aspersión","química","bajo",7468,24520,3.2833,4242
+"plátano verde","franco","goteo","química","bajo",6356,19624,3.0875,3875
+"plátano verde","arenoso","goteo","orgánica","bajo",7371,17234,2.3381,4267
+"arroz","arenoso","gravedad","orgánica","bajo",6589,7005,1.0631,5235
+"banano","franco-arcilloso","aspersión","mixta","medio",5922,24940,4.2114,4596
+"sandía","franco","gravedad","química","medio",7800,13528,1.7344,4361
+"melón","franco","aspersión","orgánica","bajo",6522,8776,1.3456,3625
+"arroz","arenoso","gravedad","química","bajo",5538,6436,1.1622,4282
+"banano","arcilloso","gravedad","mixta","medio",5639,27506,4.8778,3795
+"arroz","franco","gravedad","química","medio",8133,7856,0.9659,4105
+"maíz","arenoso","goteo","mixta","alto",5392,8122,1.5063,3343
+"maíz","franco-arcilloso","gravedad","química","bajo",5237,7382,1.4096,2898
+"banano","franco","goteo","mixta","medio",5040,26679,5.2935,2725
+"plátano verde","arenoso","gravedad","química","medio",8417,24187,2.8736,3088
+"maíz","arenoso","aspersión","orgánica","medio",6127,10649,1.738,3986
+"melón","franco","gravedad","orgánica","bajo",6994,8689,1.2424,2918
+"plátano verde","franco","gravedad","orgánica","medio",7732,21598,2.7933,5397
+"plátano verde","arcilloso","gravedad","mixta","alto",6754,23790,3.5224,4363
+"plátano verde","franco-arcilloso","goteo","química","alto",7178,23443,3.266,3713
+"sandía","franco-arcilloso","aspersión","química","medio",6375,13538,2.1236,4409
+"melón","arcilloso","goteo","química","medio",4288,9826,2.2915,3942
+"sandía","franco","goteo","orgánica","alto",7321,13988,1.9107,4331
+"plátano verde","franco","gravedad","química","medio",8292,24637,2.9712,3567
+"cacao","franco","aspersión","orgánica","bajo",5388,1183,0.2196,2018
+"cacao","franco","gravedad","química","medio",4971,1341,0.2698,3539
+"banano","franco-arcilloso","gravedad","mixta","bajo",5009,24151,4.8215,3329
+"arroz","franco-arcilloso","goteo","orgánica","alto",6425,9258,1.4409,5088
+"banano","franco-arcilloso","goteo","química","medio",6236,22494,3.6071,3421
+"plátano verde","arenoso","gravedad","mixta","alto",8118,21129,2.6027,2449
+"banano","arcilloso","aspersión","química","medio",18526,9810,0.5295,2746
+"banano","franco","aspersión","orgánica","medio",5937,27764,4.6764,5683
+"plátano verde","franco","aspersión","mixta","bajo",7892,23871,3.0247,4913
+"sandía","franco-arcilloso","goteo","orgánica","alto",5212,10855,2.0827,3322
+"banano","arenoso","goteo","orgánica","bajo",7011,21792,3.1083,3017
+"cacao","franco-arcilloso","gravedad","mixta","medio",5106,1720,0.3369,5786
+"sandía","arcilloso","goteo","orgánica","medio",6734,12085,1.7946,5238
+"sandía","arenoso","aspersión","química","alto",7637,11714,1.5338,4827
+"cacao","franco","goteo","química","medio",6895,1530,0.2219,2670
+"arroz","franco","gravedad","mixta","alto",7023,9132,1.3003,2949
+"banano","franco-arcilloso","gravedad","mixta","bajo",7881,25846,3.2795,4520
+"plátano verde","arenoso","goteo","química","medio",6470,25715,3.9745,4048
+"banano","arenoso","aspersión","química","medio",7877,22477,2.8535,3391
+"sandía","arenoso","gravedad","mixta","bajo",8220,12045,1.4653,2746
+"arroz","arcilloso","gravedad","orgánica","alto",7598,8999,1.1844,2764
+"maíz","franco-arcilloso","goteo","orgánica","medio",7764,8420,1.0845,3021
+"maíz","franco-arcilloso","gravedad","química","medio",7544,8241,1.0924,3976
+"maíz","arenoso","goteo","orgánica","medio",4941,8887,1.7986,3525
+"plátano verde","franco-arcilloso","gravedad","mixta","medio",7041,19187,2.725,4178
+"banano","franco","goteo","orgánica","alto",5342,23552,4.4088,3246
+"banano","franco","gravedad","química","bajo",8446,22458,2.659,3200
+"arroz","franco-arcilloso","aspersión","orgánica","medio",6300,7829,1.2427,3388
+"cacao","franco","aspersión","mixta","bajo",6513,1500,0.2303,3793
+"arroz","franco","gravedad","mixta","medio",14642,2850,0.1946,3693
+"maíz","franco-arcilloso","aspersión","orgánica","alto",8087,10292,1.2727,4248
+"sandía","franco","goteo","mixta","medio",7873,12441,1.5802,3433
+"cacao","franco","gravedad","mixta","alto",6330,1538,0.243,5173
+"plátano verde","arenoso","gravedad","química","medio",7562,24192,3.1992,4677
+"maíz","franco-arcilloso","aspersión","mixta","alto",8087,10111,1.2503,2989
+"plátano verde","arenoso","goteo","orgánica","medio",5174,21797,4.2128,3642
+"cacao","arenoso","gravedad","mixta","medio",7473,1315,0.176,4263
+"arroz","franco","goteo","mixta","medio",7368,10122,1.3738,4663
+"sandía","arenoso","gravedad","química","bajo",9112,10659,1.1698,3615
+"maíz","arenoso","gravedad","mixta","alto",6821,10300,1.51,3217
+"melón","arcilloso","aspersión","orgánica","alto",6065,10300,1.6983,3220
+"sandía","franco-arcilloso","gravedad","orgánica","bajo",6304,10944,1.736,3883
+"sandía","arenoso","aspersión","mixta","medio",7284,11483,1.5765,2872
+"banano","arcilloso","goteo","orgánica","alto",6407,24994,3.901,4846
+"banano","franco","gravedad","orgánica","bajo",8401,18811,2.2391,3073
+"arroz","franco","goteo","orgánica","bajo",6725,6953,1.0339,3428
+"plátano verde","franco-arcilloso","gravedad","orgánica","bajo",16868,10273,0.609,3154
+"maíz","arcilloso","gravedad","orgánica","medio",6405,9422,1.471,3304
+"cacao","arcilloso","gravedad","orgánica","medio",6415,1489,0.2321,4562
+"sandía","franco-arcilloso","goteo","mixta","alto",5257,12983,2.4697,4817
+"plátano verde","arcilloso","goteo","orgánica","bajo",5734,21821,3.8055,4001
+"melón","arenoso","gravedad","orgánica","medio",7943,9381,1.181,2504
+"plátano verde","franco-arcilloso","gravedad","mixta","medio",5101,22487,4.4084,3325
+"arroz","arenoso","aspersión","mixta","bajo",10592,8153,0.7697,4127
+"melón","arcilloso","goteo","química","alto",5614,9378,1.6705,4496
+"banano","franco","gravedad","mixta","alto",4716,24650,5.2269,3764
+"sandía","arenoso","aspersión","química","medio",6617,11114,1.6796,5109
+"maíz","franco","goteo","mixta","bajo",5008,8865,1.7702,2664
+"melón","arenoso","goteo","orgánica","medio",8155,9472,1.1615,4351
+"melón","arcilloso","goteo","orgánica","medio",6092,9328,1.5312,3545
+"sandía","arenoso","gravedad","química","bajo",8048,10296,1.2793,3020
+"cacao","franco-arcilloso","aspersión","química","alto",3943,1709,0.4334,4055
+"melón","franco-arcilloso","goteo","mixta","medio",7581,11579,1.5274,3279
+"sandía","franco","goteo","orgánica","alto",6234,11829,1.8975,3244
+"cacao","arcilloso","aspersión","orgánica","bajo",6997,1479,0.2114,6137
+"banano","arenoso","aspersión","orgánica","bajo",6533,22952,3.5132,4378
+"arroz","franco","aspersión","química","bajo",9683,6694,0.6913,2031
+"cacao","arenoso","aspersión","mixta","medio",6218,1716,0.276,4770
+"banano","franco","goteo","química","medio",8044,20058,2.4935,3239
+"plátano verde","franco","gravedad","orgánica","alto",7753,23914,3.0845,2764
+"plátano verde","arcilloso","goteo","orgánica","alto",4490,23289,5.1869,3607
+"sandía","arenoso","goteo","orgánica","bajo",3525,11503,3.2633,4522
+"sandía","franco-arcilloso","goteo","química","medio",4375,13492,3.0839,3207
+"banano","arenoso","goteo","orgánica","bajo",7837,24499,3.1261,5026
+"maíz","arenoso","gravedad","química","medio",8324,8898,1.069,4622
+"arroz","franco","goteo","química","bajo",8933,6459,0.723,3844
+"maíz","franco-arcilloso","gravedad","química","bajo",6955,9444,1.3579,4035
+"maíz","arenoso","gravedad","orgánica","medio",5511,9234,1.6756,2663
+"melón","arenoso","gravedad","orgánica","medio",5662,9420,1.6637,3742
+"banano","arcilloso","aspersión","mixta","alto",5837,27165,4.6539,4815
+"banano","arcilloso","gravedad","química","medio",6657,24900,3.7404,3736
+"melón","arenoso","gravedad","mixta","medio",8002,9737,1.2168,4520
+"plátano verde","franco-arcilloso","gravedad","mixta","medio",7693,24494,3.1839,5051
+"banano","franco","aspersión","mixta","bajo",7388,23278,3.1508,3753
+"plátano verde","arcilloso","goteo","mixta","medio",5436,22950,4.2219,2704
+"melón","arenoso","aspersión","química","alto",6715,8781,1.3077,3211
+"arroz","franco","gravedad","mixta","medio",6146,8959,1.4577,4109
+"sandía","franco-arcilloso","gravedad","orgánica","medio",4353,12509,2.8737,4610
+"sandía","franco-arcilloso","goteo","química","bajo",6829,10959,1.6048,4283
+"plátano verde","arcilloso","goteo","mixta","alto",6337,20999,3.3137,5449
+"plátano verde","arcilloso","aspersión","mixta","alto",7669,22768,2.9688,5274
+"plátano verde","arenoso","gravedad","orgánica","medio",8143,22745,2.7932,3742
+"maíz","franco-arcilloso","gravedad","orgánica","medio",5358,8970,1.6741,3639
+"banano","franco-arcilloso","aspersión","orgánica","bajo",6060,27498,4.5376,4737
+"melón","franco","goteo","mixta","bajo",8499,9313,1.0958,3878
+"maíz","arenoso","goteo","orgánica","medio",5623,7887,1.4026,4446
+"maíz","arenoso","gravedad","química","alto",7204,10932,1.5175,5044
+"sandía","arenoso","gravedad","orgánica","bajo",7523,12034,1.5996,3144
+"cacao","franco","aspersión","química","medio",4841,1601,0.3307,4341
+"plátano verde","arcilloso","gravedad","orgánica","medio",5522,21519,3.897,3185
+"cacao","arcilloso","aspersión","orgánica","alto",6931,1494,0.2156,4285
+"plátano verde","arenoso","aspersión","mixta","alto",8225,25249,3.0698,4021
+"plátano verde","arcilloso","goteo","orgánica","medio",7917,22555,2.8489,4930
+"cacao","franco","goteo","orgánica","bajo",5185,1355,0.2613,3610
+"melón","arcilloso","aspersión","química","bajo",7912,9609,1.2145,4177
+"arroz","arenoso","goteo","mixta","medio",10881,3758,0.3454,4283
+"melón","franco","aspersión","mixta","bajo",6897,9394,1.362,4624
+"sandía","arcilloso","aspersión","mixta","medio",9025,11801,1.3076,3592
+"melón","franco-arcilloso","gravedad","mixta","medio",7423,10090,1.3593,2859
+"sandía","arcilloso","goteo","química","bajo",5248,10915,2.0798,3679
+"cacao","arenoso","gravedad","mixta","alto",5066,1692,0.334,3001
+"arroz","arenoso","goteo","química","bajo",7902,7487,0.9475,3990
+"sandía","arcilloso","gravedad","orgánica","medio",7666,12477,1.6276,3391
+"sandía","arcilloso","aspersión","orgánica","medio",6155,13033,2.1175,4107
+"melón","arcilloso","aspersión","orgánica","medio",7256,11094,1.5289,2516
+"arroz","arcilloso","goteo","mixta","medio",12351,4293,0.3476,4764
+"maíz","franco","gravedad","química","medio",8621,10437,1.2106,3351
+"arroz","franco-arcilloso","gravedad","química","bajo",7555,7157,0.9473,3874
+"arroz","franco","gravedad","mixta","medio",6666,9455,1.4184,3296
+"melón","arenoso","aspersión","orgánica","alto",6770,10665,1.5753,4092
+"sandía","arenoso","goteo","química","bajo",7333,12311,1.6788,3740
+"melón","franco","aspersión","orgánica","bajo",5541,9136,1.6488,3639
+"arroz","franco","aspersión","química","medio",6589,7629,1.1578,3018
+"banano","franco","goteo","mixta","bajo",4560,24253,5.3186,5361
+"banano","franco","aspersión","química","medio",6636,25332,3.8174,4956
+"maíz","arenoso","goteo","mixta","medio",6719,8958,1.3332,4921
+"banano","arcilloso","goteo","mixta","bajo",6327,20256,3.2015,3959
+"melón","arcilloso","goteo","mixta","alto",6613,10609,1.6043,4456
+"cacao","franco","goteo","química","alto",6894,1667,0.2418,2293
+"maíz","franco","gravedad","orgánica","medio",7428,9125,1.2285,3323
+"plátano verde","arcilloso","aspersión","mixta","medio",6790,18014,2.653,2506
+"melón","arenoso","aspersión","mixta","medio",6376,10777,1.6902,4101
+"cacao","franco-arcilloso","aspersión","mixta","bajo",7941,1355,0.1706,3211
+"melón","franco-arcilloso","gravedad","química","alto",5759,9609,1.6685,3745
+"plátano verde","franco","gravedad","mixta","alto",3641,22799,6.2617,3351
+"maíz","franco","goteo","química","medio",8082,8417,1.0415,2855
+"plátano verde","arcilloso","goteo","química","medio",7323,22873,3.1234,4714
+"sandía","arcilloso","aspersión","química","medio",7049,12754,1.8093,4678
+"sandía","franco-arcilloso","aspersión","orgánica","medio",5735,12598,2.1967,5069
+"arroz","arenoso","gravedad","mixta","alto",8113,9028,1.1128,4353
+"maíz","arcilloso","aspersión","mixta","medio",6998,8567,1.2242,3846
+"melón","franco-arcilloso","goteo","química","medio",6567,9904,1.5081,5142
+"arroz","arcilloso","aspersión","química","medio",4114,7231,1.7577,4632
+"melón","franco-arcilloso","goteo","orgánica","bajo",8416,10323,1.2266,3646
+"maíz","arenoso","aspersión","mixta","medio",7923,7406,0.9347,2681
+"banano","arenoso","gravedad","química","alto",5376,29125,5.4176,3487
+"cacao","arenoso","aspersión","química","medio",5226,1544,0.2954,4427
+"maíz","arcilloso","gravedad","química","medio",8068,9129,1.1315,5269
+"sandía","arcilloso","aspersión","orgánica","alto",7825,12471,1.5937,4114
+"maíz","arenoso","aspersión","orgánica","alto",6014,9726,1.6172,4343
+"cacao","arcilloso","aspersión","orgánica","alto",11931,965,0.0809,4556
+"cacao","arcilloso","aspersión","mixta","bajo",7603,1531,0.2014,3606
+"cacao","arcilloso","goteo","mixta","bajo",4931,1446,0.2932,3208
+"arroz","franco-arcilloso","aspersión","mixta","medio",6966,8964,1.2868,3426
+"melón","arcilloso","goteo","mixta","medio",7176,9603,1.3382,3612
+"plátano verde","franco","aspersión","orgánica","medio",7010,20831,2.9716,3684
+"maíz","arenoso","goteo","orgánica","alto",6961,9466,1.3599,3697
+"melón","arenoso","goteo","orgánica","medio",8409,9312,1.1074,3621
+"arroz","franco-arcilloso","gravedad","orgánica","bajo",6702,6766,1.0095,3905
+"plátano verde","arenoso","aspersión","mixta","medio",8879,25895,2.9164,4068
+"arroz","franco-arcilloso","gravedad","mixta","bajo",6763,7479,1.1059,3322
+"maíz","franco","goteo","mixta","medio",4598,9721,2.1142,2962
+"melón","franco","aspersión","química","medio",8659,11320,1.3073,4426
+"maíz","arenoso","goteo","mixta","alto",7619,8886,1.1663,2994
+"maíz","franco-arcilloso","aspersión","química","bajo",9418,8669,0.9205,2930
+"arroz","arcilloso","goteo","orgánica","bajo",7226,7857,1.0873,4580
+"banano","franco-arcilloso","gravedad","mixta","medio",8015,21407,2.6709,4359
+"maíz","arcilloso","goteo","orgánica","medio",6673,8800,1.3187,4036
+"sandía","arcilloso","goteo","mixta","bajo",9848,9297,0.944,3496
+"cacao","franco","goteo","química","medio",7386,1356,0.1836,5291
+"banano","franco-arcilloso","aspersión","química","alto",5311,29426,5.5406,3896
+"melón","arenoso","goteo","química","alto",4452,10989,2.4683,2571
+"sandía","arenoso","gravedad","mixta","medio",7537,11692,1.5513,3764
+"arroz","franco","gravedad","mixta","bajo",7995,7814,0.9774,4603
+"plátano verde","arcilloso","gravedad","mixta","bajo",7163,21570,3.0113,3637
+"maíz","franco","goteo","orgánica","medio",6563,8621,1.3136,2748
+"melón","arenoso","goteo","orgánica","medio",5082,10808,2.1267,4537
+"sandía","franco","gravedad","mixta","medio",7047,11496,1.6313,3783
+"sandía","arenoso","aspersión","química","medio",8797,10211,1.1607,3487
+"arroz","arcilloso","gravedad","orgánica","medio",6385,7877,1.2337,4279
+"melón","franco","gravedad","orgánica","medio",8995,9915,1.1023,3043
+"plátano verde","arenoso","goteo","orgánica","medio",6706,24139,3.5996,2961
+"arroz","arcilloso","gravedad","mixta","bajo",10004,4213,0.4211,4551
+"maíz","franco-arcilloso","aspersión","orgánica","alto",6504,9387,1.4433,4099
+"arroz","arenoso","gravedad","mixta","alto",7674,8143,1.0611,3425
+"arroz","arenoso","aspersión","orgánica","bajo",6096,8458,1.3875,3629
+"melón","arenoso","gravedad","orgánica","medio",6610,8531,1.2906,2604
+"cacao","arcilloso","gravedad","orgánica","bajo",9563,1456,0.1523,3900
+"cacao","arcilloso","aspersión","química","bajo",5693,1429,0.251,2935
+"melón","franco","aspersión","orgánica","bajo",6692,10137,1.5148,3962
+"maíz","franco","goteo","química","medio",7249,8430,1.1629,3663
+"maíz","franco","aspersión","química","bajo",7397,7588,1.0258,4280
+"plátano verde","arcilloso","aspersión","orgánica","bajo",7465,18426,2.4683,3482
+"cacao","franco","goteo","orgánica","medio",6088,1481,0.2433,3699
+"cacao","arcilloso","aspersión","química","medio",5446,1671,0.3068,4221
+"sandía","arenoso","goteo","orgánica","alto",7464,13185,1.7665,4084
+"melón","arcilloso","aspersión","química","medio",5983,10011,1.6732,2991
+"sandía","arenoso","goteo","orgánica","alto",6613,14997,2.2678,4685
+"sandía","arcilloso","gravedad","orgánica","medio",6669,10219,1.5323,4367
+"banano","franco-arcilloso","gravedad","mixta","bajo",9515,28822,3.0291,3156
+"cacao","arenoso","aspersión","mixta","alto",7435,1654,0.2225,4056
+"sandía","arcilloso","gravedad","química","medio",6127,11555,1.8859,4648
+"maíz","franco-arcilloso","aspersión","orgánica","medio",8643,9422,1.0901,3852
+"maíz","franco-arcilloso","goteo","mixta","medio",9167,9221,1.0059,3165
+"banano","franco-arcilloso","goteo","mixta","medio",6427,27264,4.2421,5084
+"plátano verde","franco","gravedad","orgánica","bajo",5707,19255,3.3739,4639
+"cacao","franco","gravedad","mixta","medio",7480,1482,0.1981,4861
+"cacao","franco","aspersión","orgánica","alto",6363,1673,0.2629,3876
+"arroz","arcilloso","aspersión","orgánica","medio",6738,9487,1.408,3690
+"melón","arenoso","goteo","química","medio",4887,10480,2.1445,5494
+"maíz","arenoso","goteo","química","medio",7171,8483,1.183,4631
+"maíz","arenoso","gravedad","orgánica","alto",7108,8596,1.2093,3766
+"cacao","arcilloso","aspersión","química","alto",7871,1729,0.2197,4103
+"plátano verde","arcilloso","gravedad","orgánica","medio",6798,22259,3.2743,4500
+"melón","franco","aspersión","orgánica","medio",5843,10294,1.7618,3997
+"cacao","arenoso","aspersión","orgánica","bajo",8346,1492,0.1788,4409
+"plátano verde","arcilloso","gravedad","mixta","alto",6780,20911,3.0842,3622
+"melón","franco","gravedad","química","medio",7036,9409,1.3373,3836
+"arroz","franco-arcilloso","aspersión","orgánica","medio",8543,8142,0.9531,4002
+"banano","franco","gravedad","orgánica","medio",6200,25430,4.1016,2996
+"maíz","arenoso","goteo","química","medio",4309,8067,1.8721,5178
+"arroz","arenoso","aspersión","mixta","medio",5997,7874,1.313,5261
+"maíz","franco-arcilloso","goteo","química","bajo",9824,8124,0.827,3148
+"maíz","arenoso","gravedad","orgánica","medio",6223,9946,1.5983,3676
+"sandía","arcilloso","aspersión","orgánica","medio",7247,12614,1.7406,3195
+"plátano verde","franco","gravedad","química","bajo",6435,21208,3.2957,4314
+"arroz","franco-arcilloso","aspersión","orgánica","alto",6491,9492,1.4623,3756
+"sandía","arcilloso","gravedad","orgánica","medio",7823,12337,1.577,5537
+"banano","arenoso","aspersión","mixta","medio",7213,23869,3.3092,3660
+"maíz","arenoso","goteo","orgánica","medio",7473,9688,1.2964,3924
+"melón","arenoso","gravedad","orgánica","alto",5813,9250,1.5913,4752
+"cacao","arcilloso","gravedad","mixta","bajo",7278,1430,0.1965,3738
+"plátano verde","franco","goteo","química","bajo",5927,19683,3.3209,2547
+"maíz","franco-arcilloso","aspersión","orgánica","medio",5885,9211,1.5652,5371
+"sandía","arenoso","gravedad","orgánica","alto",7662,12949,1.69,4489
+"plátano verde","arcilloso","goteo","orgánica","bajo",4806,21076,4.3854,4611
+"banano","franco","aspersión","orgánica","bajo",6380,19324,3.0288,3398
+"melón","arcilloso","gravedad","química","alto",7240,11048,1.526,3239
+"cacao","arenoso","gravedad","orgánica","medio",10394,1581,0.1521,4852
+"plátano verde","franco","aspersión","química","medio",6960,21855,3.1401,4952
+"melón","arenoso","gravedad","química","bajo",8080,9091,1.1251,3850
+"melón","arcilloso","goteo","mixta","alto",7326,8336,1.1379,5506
+"maíz","franco-arcilloso","goteo","orgánica","alto",6069,9587,1.5797,5141
+"cacao","franco","aspersión","química","medio",6097,1612,0.2644,3876
+"melón","franco","gravedad","mixta","medio",6784,12299,1.8129,4116
+"arroz","arcilloso","aspersión","mixta","bajo",8485,6856,0.808,4053
+"plátano verde","franco-arcilloso","goteo","mixta","bajo",6857,20061,2.9256,3915
+"arroz","arcilloso","gravedad","orgánica","medio",5694,7478,1.3133,4472
+"melón","franco","goteo","química","medio",6096,9317,1.5284,4403
+"arroz","franco-arcilloso","goteo","orgánica","alto",4837,9408,1.945,4668
+"arroz","arcilloso","goteo","mixta","medio",7942,8216,1.0345,3777
+"plátano verde","franco","goteo","mixta","medio",7952,23030,2.8961,3858
+"melón","franco-arcilloso","aspersión","mixta","alto",6157,10231,1.6617,6159
+"cacao","franco-arcilloso","goteo","mixta","alto",6751,1941,0.2875,3990
+"plátano verde","franco","goteo","orgánica","alto",5269,25078,4.7595,4335
+"melón","arcilloso","goteo","mixta","alto",5355,10201,1.9049,3758
+"melón","arenoso","gravedad","orgánica","medio",4802,9833,2.0477,3814
+"sandía","arcilloso","goteo","mixta","alto",7349,12740,1.7336,5084
+"arroz","arcilloso","goteo","mixta","bajo",6781,8387,1.2368,5205
+"melón","arcilloso","gravedad","química","medio",8364,8717,1.0422,3788
+"sandía","arenoso","goteo","química","medio",5787,11986,2.0712,3443
+"arroz","franco-arcilloso","goteo","mixta","bajo",7702,8440,1.0958,2750
+"plátano verde","franco-arcilloso","gravedad","mixta","bajo",7970,20283,2.5449,3909
+"plátano verde","arenoso","aspersión","orgánica","alto",8735,25044,2.8671,3962
+"banano","arcilloso","gravedad","química","alto",9097,27936,3.0709,3598
+"maíz","arcilloso","goteo","mixta","medio",5941,9246,1.5563,4136
+"cacao","franco","gravedad","química","medio",7049,1220,0.1731,3429
+"sandía","arenoso","aspersión","mixta","bajo",4900,9055,1.848,3881
+"arroz","arenoso","goteo","mixta","medio",6029,7608,1.2619,5266
+"plátano verde","franco-arcilloso","aspersión","mixta","medio",5575,21578,3.8705,5351
+"cacao","franco","gravedad","química","alto",7666,1469,0.1916,3415
+"cacao","arcilloso","goteo","mixta","bajo",6123,1306,0.2133,3534
+"cacao","arenoso","gravedad","química","alto",6614,1352,0.2044,3349
+"cacao","arenoso","gravedad","química","bajo",6123,1425,0.2327,4115
+"maíz","franco-arcilloso","gravedad","química","medio",8914,8733,0.9797,4931
+"cacao","franco-arcilloso","goteo","química","medio",6802,1436,0.2111,4029
+"melón","franco","aspersión","orgánica","medio",5616,11127,1.9813,4155
+"plátano verde","franco","aspersión","mixta","medio",8040,20404,2.5378,4765
+"arroz","arcilloso","gravedad","orgánica","bajo",6615,7064,1.0679,3502
+"arroz","franco","goteo","orgánica","medio",6589,8251,1.2522,4406
+"banano","franco-arcilloso","gravedad","orgánica","medio",6997,22209,3.1741,3771
+"arroz","franco","gravedad","orgánica","alto",8774,9758,1.1121,6099
+"plátano verde","arenoso","goteo","mixta","bajo",7572,16643,2.198,4921
+"cacao","franco-arcilloso","goteo","orgánica","medio",8565,1360,0.1588,3652
+"arroz","arenoso","goteo","orgánica","medio",7304,6883,0.9424,3572
+"sandía","franco-arcilloso","aspersión","mixta","bajo",10339,10122,0.979,4096
+"banano","franco-arcilloso","goteo","mixta","medio",6492,25354,3.9054,4476
+"cacao","franco-arcilloso","aspersión","química","medio",4916,1610,0.3275,2979
+"melón","franco-arcilloso","goteo","química","medio",6889,10291,1.4938,3716
+"melón","arenoso","goteo","química","medio",7294,9437,1.2938,4880
+"cacao","arcilloso","gravedad","orgánica","medio",7194,1572,0.2185,5603
+"cacao","arcilloso","goteo","orgánica","medio",7892,1715,0.2173,3776
+"maíz","arcilloso","gravedad","orgánica","medio",6462,8928,1.3816,4070
+"melón","franco","aspersión","mixta","bajo",6421,10876,1.6938,3128
+"maíz","franco-arcilloso","gravedad","mixta","medio",8062,8193,1.0162,3896
+"maíz","franco","goteo","mixta","alto",6352,8911,1.4029,3721
+"maíz","franco","goteo","orgánica","medio",6631,9175,1.3837,5139
+"sandía","franco-arcilloso","gravedad","química","medio",7269,11510,1.5834,3297
+"sandía","franco-arcilloso","aspersión","orgánica","medio",6033,10989,1.8215,4150
+"arroz","franco-arcilloso","gravedad","química","medio",6735,9315,1.3831,3764
+"maíz","franco","goteo","mixta","alto",6777,10516,1.5517,3598
+"melón","arenoso","goteo","orgánica","medio",6572,9952,1.5143,5587
+"sandía","franco","aspersión","orgánica","alto",7018,11192,1.5948,4814
+"banano","franco","goteo","orgánica","medio",4929,24391,4.9485,4579
+"banano","arcilloso","aspersión","orgánica","bajo",6842,21554,3.1502,4267
+"melón","franco-arcilloso","gravedad","mixta","medio",7374,9296,1.2606,2948
+"sandía","franco-arcilloso","gravedad","química","bajo",7505,12500,1.6656,5661
+"melón","franco-arcilloso","goteo","mixta","bajo",6854,9953,1.4521,2965
+"arroz","arcilloso","gravedad","mixta","medio",8327,9444,1.1341,4696
+"maíz","arenoso","aspersión","química","bajo",7563,8514,1.1257,3790
+"banano","franco-arcilloso","goteo","orgánica","bajo",4924,28548,5.7977,4133
+"cacao","arcilloso","aspersión","mixta","alto",5814,1332,0.2291,2858
+"sandía","franco-arcilloso","goteo","mixta","medio",8939,10763,1.204,3813
+"plátano verde","franco-arcilloso","gravedad","química","bajo",7931,21344,2.6912,3299
+"plátano verde","franco","goteo","química","bajo",7235,24752,3.4211,3016
+"maíz","arenoso","aspersión","mixta","bajo",6312,8194,1.2982,4269
+"maíz","franco","aspersión","orgánica","alto",6052,9723,1.6066,3622
+"maíz","arcilloso","aspersión","química","alto",8624,8536,0.9898,4311
+"sandía","arcilloso","gravedad","mixta","medio",7294,10557,1.4474,2830
+"banano","franco","gravedad","mixta","medio",7012,23164,3.3035,5522
+"maíz","arenoso","aspersión","química","bajo",7040,8685,1.2337,3875
+"maíz","franco","gravedad","química","medio",6456,8779,1.3598,5003
+"arroz","franco-arcilloso","aspersión","orgánica","medio",6512,8189,1.2575,3865
+"sandía","arcilloso","aspersión","mixta","bajo",8631,10671,1.2364,3966
+"arroz","franco-arcilloso","goteo","mixta","medio",7325,8600,1.1741,4326
+"sandía","arcilloso","aspersión","mixta","medio",6441,11673,1.8123,4561
+"maíz","franco-arcilloso","aspersión","mixta","medio",6277,9566,1.524,4489
+"plátano verde","arenoso","gravedad","orgánica","medio",7721,25248,3.27,4547
+"arroz","franco","goteo","química","medio",6528,9735,1.4913,3987
+"arroz","arcilloso","aspersión","orgánica","bajo",4130,6776,1.6407,3074
+"cacao","franco-arcilloso","gravedad","mixta","alto",5118,1674,0.3271,3649
+"cacao","arenoso","goteo","química","alto",5554,1673,0.3012,4706
+"arroz","arenoso","goteo","mixta","medio",7032,7737,1.1003,3800
+"maíz","franco","gravedad","mixta","medio",4489,9074,2.0214,4133
+"maíz","franco","gravedad","orgánica","medio",6972,8170,1.1718,5211
+"arroz","franco-arcilloso","aspersión","química","medio",5957,8734,1.4662,4433
+"plátano verde","arcilloso","aspersión","orgánica","medio",6220,22681,3.6465,4276
+"banano","franco","goteo","mixta","medio",5949,24803,4.1693,4317
+"maíz","franco-arcilloso","gravedad","mixta","medio",7565,9343,1.235,3577
+"melón","franco","aspersión","mixta","medio",6880,10096,1.4674,5359
+"plátano verde","franco-arcilloso","gravedad","mixta","bajo",6805,19168,2.8168,3634
+"cacao","franco-arcilloso","aspersión","orgánica","bajo",5363,1433,0.2672,3809
+"maíz","franco","aspersión","mixta","medio",6878,9002,1.3088,4258
+"melón","arcilloso","aspersión","mixta","medio",7624,9319,1.2223,5098
+"melón","arenoso","gravedad","orgánica","medio",4977,10798,2.1696,4892
+"cacao","arcilloso","goteo","química","medio",6721,1869,0.2781,3447
+"melón","franco-arcilloso","gravedad","orgánica","bajo",7364,9199,1.2492,4041
+"arroz","arenoso","gravedad","orgánica","alto",6366,9538,1.4983,3730
+"banano","arenoso","aspersión","química","bajo",6070,28478,4.6916,4302
+"cacao","franco-arcilloso","aspersión","mixta","medio",7138,1405,0.1968,4021
+"sandía","arcilloso","goteo","mixta","medio",6765,12559,1.8565,3691
+"cacao","arenoso","gravedad","química","alto",6578,1380,0.2098,4040
+"maíz","franco-arcilloso","aspersión","orgánica","bajo",7241,11075,1.5295,2945
+"arroz","franco-arcilloso","gravedad","orgánica","medio",7525,7691,1.0221,4653
+"arroz","arenoso","goteo","química","bajo",7413,6524,0.8801,4121
+"melón","franco","gravedad","química","medio",6617,9677,1.4624,5226
+"sandía","arcilloso","aspersión","química","medio",7123,12577,1.7657,5400
+"banano","franco-arcilloso","goteo","mixta","medio",7865,20829,2.6483,3650
+"banano","arcilloso","aspersión","orgánica","medio",7208,25724,3.5688,3634
+"cacao","arenoso","gravedad","química","bajo",8385,1339,0.1597,4160
+"arroz","arcilloso","aspersión","orgánica","bajo",6696,6311,0.9425,5114
+"plátano verde","arcilloso","goteo","mixta","alto",5435,26519,4.8793,3242
+"maíz","arcilloso","goteo","química","medio",5523,9842,1.782,3629
+"melón","franco-arcilloso","aspersión","química","alto",7210,11520,1.5978,5122
+"cacao","arcilloso","gravedad","orgánica","medio",8003,1506,0.1882,3103
+"maíz","arcilloso","gravedad","química","bajo",9326,8815,0.9452,5100
+"arroz","franco-arcilloso","gravedad","mixta","alto",7234,7265,1.0043,3672
+"arroz","franco-arcilloso","gravedad","química","bajo",6924,7417,1.0712,3931
+"banano","arcilloso","goteo","orgánica","medio",7858,22139,2.8174,3109
+"maíz","arenoso","goteo","química","medio",8771,7855,0.8956,3686
+"melón","franco-arcilloso","aspersión","mixta","alto",9144,9692,1.0599,3867
+"cacao","arenoso","goteo","química","bajo",6380,1741,0.2729,3530
+"sandía","arenoso","gravedad","orgánica","medio",7184,12298,1.7119,5134
+"cacao","arcilloso","goteo","mixta","alto",7254,1496,0.2062,2914
+"plátano verde","arenoso","aspersión","orgánica","bajo",5077,23419,4.6128,2733
+"banano","arcilloso","goteo","química","bajo",6772,24357,3.5967,4469
+"sandía","arcilloso","gravedad","química","medio",7707,12964,1.6821,4860
+"melón","arenoso","gravedad","orgánica","alto",5611,10268,1.83,3001
+"arroz","franco","aspersión","mixta","alto",8420,7911,0.9395,4669
+"plátano verde","franco","aspersión","mixta","medio",6359,20306,3.1933,3245
+"maíz","arenoso","gravedad","mixta","medio",7682,9238,1.2026,4635
+"cacao","arenoso","gravedad","orgánica","bajo",5358,1456,0.2717,3477
+"sandía","franco","aspersión","química","alto",7125,14928,2.0952,4255
+"melón","arcilloso","gravedad","orgánica","bajo",6564,10103,1.5392,2724
+"sandía","arenoso","goteo","química","medio",6096,11863,1.946,3722
+"arroz","franco","aspersión","orgánica","bajo",7242,7236,0.9992,4134
+"melón","franco-arcilloso","aspersión","orgánica","medio",7296,9685,1.3274,3767
+"cacao","franco","aspersión","química","alto",3581,1591,0.4443,4882
+"melón","arcilloso","gravedad","mixta","alto",6535,9384,1.436,5018
+"melón","arenoso","goteo","química","bajo",7122,9735,1.3669,4690
+"plátano verde","franco-arcilloso","goteo","mixta","bajo",6723,16252,2.4174,4204
+"melón","franco-arcilloso","goteo","orgánica","bajo",6941,10414,1.5004,3966
+"cacao","arcilloso","gravedad","mixta","medio",7772,1372,0.1765,3827
+"cacao","franco-arcilloso","gravedad","mixta","medio",6367,1290,0.2026,5102
+"cacao","franco-arcilloso","aspersión","mixta","alto",6097,1596,0.2618,3987
+"banano","arcilloso","goteo","mixta","alto",6762,27584,4.0793,3356
+"banano","arcilloso","aspersión","orgánica","alto",4741,24633,5.1957,2509
+"plátano verde","arenoso","aspersión","química","bajo",7368,23385,3.1739,4594
+"banano","franco-arcilloso","aspersión","química","medio",6668,27528,4.1284,3166
+"banano","arcilloso","aspersión","química","alto",9313,10763,1.1557,3973
+"sandía","arenoso","goteo","mixta","medio",7755,12278,1.5832,4613
+"banano","arenoso","gravedad","química","alto",6688,20772,3.1059,3915
+"plátano verde","arcilloso","gravedad","mixta","medio",7960,17338,2.1781,5007
+"plátano verde","arcilloso","gravedad","química","medio",7577,23675,3.1246,3801
+"cacao","franco","gravedad","orgánica","medio",6430,1349,0.2098,4645
+"plátano verde","arcilloso","goteo","mixta","medio",7288,22086,3.0305,3794
+"maíz","arcilloso","gravedad","orgánica","alto",8381,9491,1.1324,3740
+"maíz","arenoso","goteo","química","alto",5521,9686,1.7544,3761
+"sandía","arcilloso","gravedad","mixta","bajo",6258,8438,1.3484,4410
+"banano","arcilloso","aspersión","mixta","bajo",7610,25954,3.4105,2639
+"plátano verde","franco-arcilloso","goteo","orgánica","medio",7325,21966,2.9988,3757
+"melón","franco-arcilloso","gravedad","mixta","medio",6812,9008,1.3224,4829
+"banano","arenoso","goteo","orgánica","bajo",8151,27451,3.3678,3125
+"maíz","arcilloso","gravedad","orgánica","bajo",8711,8312,0.9542,4971
+"plátano verde","franco-arcilloso","aspersión","mixta","bajo",6322,21099,3.3374,3936
+"cacao","franco","gravedad","mixta","medio",6084,1405,0.2309,3662
+"arroz","arcilloso","gravedad","química","bajo",6744,7954,1.1794,4764
+"sandía","franco-arcilloso","gravedad","química","bajo",6122,9789,1.599,4928
+"arroz","arcilloso","gravedad","mixta","bajo",8076,8364,1.0357,5409
+"arroz","franco","gravedad","mixta","medio",6841,7542,1.1025,4338
+"arroz","franco","gravedad","orgánica","bajo",7299,8103,1.1102,3154
+"arroz","arcilloso","aspersión","orgánica","bajo",5922,7464,1.2604,3386
+"plátano verde","franco","goteo","mixta","medio",6852,18794,2.7428,3713
+"maíz","franco-arcilloso","goteo","química","medio",10046,4314,0.4294,3440
+"melón","arenoso","goteo","química","medio",6869,10097,1.4699,3817
+"melón","arenoso","aspersión","mixta","medio",6850,10458,1.5267,4794
+"banano","arcilloso","gravedad","orgánica","medio",8681,27482,3.1658,4545
+"cacao","franco-arcilloso","gravedad","mixta","alto",5225,1388,0.2656,4755
+"plátano verde","franco","gravedad","orgánica","medio",5864,17907,3.0537,5223
+"sandía","arenoso","goteo","mixta","bajo",7365,9343,1.2686,3562
+"arroz","arenoso","gravedad","química","medio",8424,7058,0.8378,2923
+"maíz","arcilloso","goteo","mixta","alto",6224,9497,1.5259,5580
+"maíz","arenoso","gravedad","mixta","medio",7410,10501,1.4171,4394
+"maíz","franco-arcilloso","aspersión","orgánica","medio",5881,8395,1.4275,3885
+"banano","franco-arcilloso","goteo","química","medio",6080,24932,4.1007,3958
+"maíz","franco-arcilloso","aspersión","química","medio",8294,8937,1.0775,4182
+"cacao","arcilloso","goteo","orgánica","alto",8245,1790,0.2171,5052
+"cacao","franco-arcilloso","gravedad","mixta","medio",6256,1442,0.2305,3185
+"melón","franco","goteo","mixta","medio",6988,9396,1.3446,4593
+"cacao","franco-arcilloso","aspersión","química","bajo",8670,1274,0.1469,4104
+"melón","arcilloso","goteo","mixta","bajo",6890,9838,1.4279,4203
+"banano","arenoso","gravedad","química","medio",13877,12523,0.9024,3237
+"maíz","franco","gravedad","mixta","bajo",7527,8519,1.1318,3587
+"arroz","franco-arcilloso","gravedad","mixta","bajo",7472,7191,0.9624,4359
+"cacao","franco","gravedad","mixta","medio",7945,1310,0.1649,5555
+"maíz","franco-arcilloso","gravedad","química","bajo",5305,8140,1.5344,3826
+"arroz","franco","goteo","química","bajo",6390,7807,1.2218,4772
+"sandía","franco","goteo","orgánica","bajo",8670,12499,1.4416,2839
+"banano","arcilloso","gravedad","química","bajo",7903,20614,2.6084,4177
+"cacao","franco-arcilloso","gravedad","orgánica","alto",6060,1528,0.2521,2878
+"plátano verde","franco-arcilloso","goteo","mixta","bajo",6615,24709,3.7353,4371
+"plátano verde","arenoso","goteo","química","bajo",5385,18072,3.356,5437
+"maíz","arcilloso","gravedad","química","alto",6030,8268,1.3711,4510
+"melón","arcilloso","gravedad","mixta","medio",7634,9258,1.2127,4603
+"plátano verde","franco","gravedad","química","bajo",7790,23020,2.9551,5733
+"banano","franco","gravedad","química","bajo",8471,23952,2.8275,4755
+"melón","arcilloso","aspersión","orgánica","bajo",8420,8814,1.0468,4003
+"cacao","franco-arcilloso","goteo","mixta","medio",5144,1431,0.2782,3804
+"melón","arcilloso","aspersión","mixta","bajo",5456,9755,1.7879,4474
+"arroz","arcilloso","goteo","mixta","bajo",6866,7251,1.0561,3429
+"plátano verde","arenoso","goteo","química","medio",8430,21127,2.5062,3731
+"banano","arcilloso","gravedad","orgánica","bajo",7563,24666,3.2614,3558
+"maíz","franco","aspersión","orgánica","bajo",7568,8748,1.1559,4675
+"plátano verde","franco","goteo","orgánica","bajo",11587,6882,0.5939,4723
+"sandía","franco","goteo","química","alto",5862,11907,2.0312,3803
+"banano","franco-arcilloso","aspersión","química","bajo",9203,20735,2.2531,4142
+"arroz","franco-arcilloso","gravedad","orgánica","bajo",8539,8359,0.9789,3627
+"banano","arenoso","goteo","mixta","medio",8171,26091,3.1931,3717
+"arroz","franco-arcilloso","gravedad","mixta","alto",7435,9128,1.2277,3337
+"arroz","arcilloso","goteo","química","medio",5763,7244,1.257,4516
+"maíz","franco-arcilloso","goteo","química","medio",7477,7405,0.9904,3632
+"cacao","arcilloso","goteo","mixta","medio",4525,1420,0.3138,4630
+"arroz","franco","aspersión","química","medio",7169,7987,1.1141,2803
+"plátano verde","arcilloso","gravedad","química","bajo",7500,22148,2.9531,3524
+"arroz","arenoso","goteo","química","bajo",8219,7040,0.8566,4574
+"maíz","arcilloso","goteo","química","medio",5006,10269,2.0513,4898
+"sandía","arcilloso","aspersión","orgánica","medio",5935,12162,2.0492,4174
+"banano","arenoso","gravedad","química","medio",7177,24409,3.401,2695
+"sandía","arenoso","gravedad","química","medio",7960,10921,1.372,5446
+"maíz","arcilloso","gravedad","orgánica","bajo",8688,9166,1.055,3817
+"plátano verde","franco-arcilloso","goteo","orgánica","medio",8270,23116,2.7952,3635
+"cacao","arenoso","aspersión","mixta","medio",6161,1449,0.2352,4077
+"plátano verde","franco-arcilloso","aspersión","mixta","bajo",6677,20432,3.0601,4645
+"banano","franco","aspersión","mixta","bajo",6337,23568,3.7191,3184
+"banano","arenoso","aspersión","mixta","medio",5354,25740,4.8076,4493
+"cacao","arenoso","gravedad","orgánica","alto",7346,1699,0.2313,3105
+"maíz","franco","gravedad","orgánica","medio",7648,10350,1.3533,5199
+"arroz","franco-arcilloso","goteo","orgánica","medio",6652,7624,1.1461,3614
+"cacao","arcilloso","gravedad","química","medio",7443,1475,0.1982,3509
+"arroz","franco","gravedad","mixta","bajo",7508,7732,1.0298,4075
+"banano","franco","goteo","mixta","alto",6418,25915,4.0379,4015
+"melón","arenoso","goteo","orgánica","medio",12391,6057,0.4888,3748
+"plátano verde","arenoso","goteo","mixta","medio",5393,19325,3.5833,3404
+"plátano verde","franco-arcilloso","goteo","química","bajo",5807,20011,3.446,3661
+"maíz","arcilloso","aspersión","química","bajo",14347,3951,0.2754,4865
+"maíz","arcilloso","aspersión","mixta","medio",12770,3623,0.2837,5998
+"melón","arenoso","gravedad","mixta","bajo",7702,9786,1.2706,4297
+"maíz","franco","gravedad","mixta","medio",6233,8641,1.3863,3341
+"maíz","arenoso","goteo","química","alto",7107,10051,1.4142,3380
+"maíz","arenoso","aspersión","química","medio",4754,8887,1.8694,3516
+"banano","franco-arcilloso","gravedad","química","alto",7171,30334,4.2301,4484
+"plátano verde","arenoso","aspersión","orgánica","medio",6258,24320,3.8862,3808
+"banano","franco","gravedad","química","medio",5821,24368,4.1862,4369
+"banano","franco-arcilloso","goteo","orgánica","bajo",7130,24637,3.4554,4393
+"sandía","arcilloso","goteo","orgánica","medio",6284,14358,2.2849,4955
+"melón","franco","gravedad","orgánica","medio",8112,10750,1.3252,3696
+"sandía","arcilloso","gravedad","química","alto",6615,13141,1.9865,4968
+"plátano verde","arcilloso","goteo","mixta","medio",5424,22069,4.0688,2621
+"sandía","arcilloso","goteo","mixta","alto",6919,9946,1.4375,3780
+"banano","franco-arcilloso","goteo","química","medio",5533,26204,4.7359,4845
+"melón","franco-arcilloso","goteo","química","bajo",7762,8472,1.0915,5557
+"arroz","franco-arcilloso","aspersión","química","alto",6651,7450,1.1201,2056
+"banano","franco-arcilloso","goteo","orgánica","medio",8175,23545,2.8801,2942
+"cacao","franco","gravedad","orgánica","bajo",6780,1527,0.2252,3936
+"cacao","franco","goteo","química","bajo",5764,1420,0.2464,4645
+"maíz","franco","goteo","mixta","medio",6494,8461,1.3029,2137
+"sandía","franco","gravedad","mixta","bajo",6465,11343,1.7545,2925
+"maíz","franco","aspersión","mixta","medio",6673,9571,1.4343,3713
+"cacao","arcilloso","aspersión","mixta","medio",7745,1873,0.2418,2428
+"maíz","franco-arcilloso","gravedad","orgánica","bajo",7769,9234,1.1886,2615
+"sandía","arenoso","aspersión","química","medio",7071,12996,1.8379,4829
+"cacao","arenoso","aspersión","orgánica","bajo",6519,1563,0.2398,3806
+"banano","franco","gravedad","orgánica","bajo",8854,20914,2.3621,3742
+"plátano verde","franco","gravedad","orgánica","medio",8018,21450,2.6752,3559
+"plátano verde","arcilloso","goteo","química","alto",5939,19842,3.341,4041
+"melón","franco-arcilloso","aspersión","química","medio",4914,10370,2.1103,4411
+"melón","arcilloso","aspersión","mixta","bajo",6342,8938,1.4093,3196
+"cacao","franco","gravedad","orgánica","alto",5351,1335,0.2495,3846
+"melón","franco","aspersión","orgánica","medio",6290,8792,1.3978,3899
+"banano","arcilloso","goteo","mixta","medio",4747,28499,6.0036,4254
+"cacao","franco-arcilloso","gravedad","orgánica","medio",7350,1439,0.1958,5397
+"banano","arcilloso","aspersión","química","alto",7032,27574,3.9212,2570
+"plátano verde","arcilloso","gravedad","química","medio",7075,21891,3.0941,2872
+"plátano verde","arcilloso","aspersión","química","bajo",8170,24685,3.0214,4884
+"banano","franco-arcilloso","gravedad","orgánica","alto",7645,32617,4.2664,5269
+"sandía","franco","gravedad","mixta","medio",7960,15217,1.9117,4599
+"cacao","franco","goteo","química","alto",7321,1644,0.2246,5412
+"maíz","arcilloso","goteo","mixta","bajo",6079,9323,1.5336,3762
+"cacao","franco-arcilloso","gravedad","orgánica","alto",6052,1552,0.2564,4644
+"melón","franco-arcilloso","goteo","química","medio",5991,11947,1.9942,3501
+"melón","franco","goteo","mixta","medio",6812,10541,1.5474,4463
+"arroz","arcilloso","goteo","mixta","medio",6593,7420,1.1254,4115
+"melón","arcilloso","aspersión","química","bajo",7462,11768,1.5771,2724
+"cacao","franco-arcilloso","gravedad","orgánica","medio",7173,1569,0.2187,3294
+"plátano verde","franco-arcilloso","goteo","mixta","bajo",8101,19967,2.4648,3438
+"cacao","franco-arcilloso","goteo","orgánica","alto",7200,1444,0.2006,3762
+"arroz","arenoso","gravedad","química","alto",5711,8662,1.5167,4333
+"sandía","arcilloso","goteo","química","alto",5486,11171,2.0363,3589
+"maíz","franco-arcilloso","goteo","química","bajo",7008,8514,1.2149,7134
+"cacao","arcilloso","goteo","química","medio",6487,1427,0.22,3082
+"sandía","arenoso","aspersión","química","bajo",5394,11337,2.1018,1970
+"maíz","arenoso","gravedad","mixta","bajo",6723,9235,1.3736,3921
+"sandía","franco-arcilloso","gravedad","química","alto",7313,13436,1.8373,4841
+"maíz","arenoso","aspersión","química","bajo",6744,8398,1.2453,3930
+"plátano verde","arcilloso","aspersión","química","medio",8399,19153,2.2804,3864
+"melón","arcilloso","gravedad","química","medio",8165,9272,1.1356,5926
+"cacao","franco","goteo","orgánica","bajo",6622,1162,0.1755,4296
+"melón","arcilloso","gravedad","mixta","medio",8297,10373,1.2502,3327
+"plátano verde","franco","gravedad","orgánica","bajo",7237,18979,2.6225,3145
+"arroz","franco","aspersión","mixta","bajo",7113,8324,1.1703,2313
+"cacao","arcilloso","goteo","orgánica","alto",5305,1633,0.3078,4635
+"arroz","franco-arcilloso","goteo","orgánica","bajo",4462,7562,1.6948,3800
+"plátano verde","arenoso","goteo","mixta","medio",13228,8348,0.6311,3858
+"maíz","arcilloso","gravedad","mixta","alto",5441,9811,1.8032,4540
+"melón","franco-arcilloso","goteo","orgánica","alto",7057,9348,1.3246,3202
+"sandía","franco","aspersión","mixta","alto",6363,12351,1.9411,3078
+"sandía","arenoso","goteo","orgánica","medio",7520,10977,1.4597,4318
+"cacao","franco-arcilloso","gravedad","mixta","medio",4713,1436,0.3047,3003
+"maíz","arcilloso","goteo","mixta","medio",5818,8264,1.4204,4876
+"plátano verde","arcilloso","aspersión","mixta","bajo",4786,22285,4.6563,5465
+"arroz","arenoso","gravedad","mixta","medio",9208,7740,0.8406,2822
+"plátano verde","arcilloso","goteo","mixta","medio",7584,24137,3.1826,4214
+"maíz","franco-arcilloso","gravedad","orgánica","medio",5907,8432,1.4275,4055
+"sandía","arcilloso","aspersión","mixta","medio",9139,11653,1.2751,2472
+"arroz","arenoso","goteo","química","bajo",6175,6582,1.0659,3316
+"arroz","franco-arcilloso","aspersión","química","medio",6418,9414,1.4668,2935
+"cacao","franco","aspersión","orgánica","medio",7719,1674,0.2169,2561
+"plátano verde","arcilloso","goteo","orgánica","alto",4418,24649,5.5792,3284
+"sandía","franco-arcilloso","goteo","mixta","alto",7473,10973,1.4684,5148
+"banano","franco-arcilloso","gravedad","química","medio",4206,22201,5.2784,4201
+"melón","arenoso","aspersión","mixta","medio",5486,11468,2.0904,4216
+"plátano verde","franco-arcilloso","gravedad","mixta","medio",5995,23836,3.976,3013
+"plátano verde","arcilloso","gravedad","mixta","bajo",5546,16171,2.9158,3928
+"arroz","arenoso","goteo","mixta","bajo",6686,7767,1.1617,4210
+"arroz","franco","gravedad","química","bajo",6830,7119,1.0423,4509
+"cacao","arenoso","gravedad","mixta","bajo",7783,1385,0.178,4505
+"sandía","franco-arcilloso","goteo","química","medio",6354,13059,2.0552,4599
+"sandía","franco","gravedad","orgánica","bajo",8376,10432,1.2455,3490
+"cacao","arenoso","goteo","química","medio",5673,1323,0.2332,1979
+"maíz","arcilloso","aspersión","orgánica","medio",7502,9428,1.2567,3974
+"melón","arenoso","aspersión","orgánica","medio",4842,10498,2.1681,4394
+"cacao","franco-arcilloso","aspersión","orgánica","bajo",8007,1146,0.1431,3172
+"sandía","franco","gravedad","química","bajo",5164,12237,2.3697,5364
+"banano","franco-arcilloso","goteo","mixta","bajo",7026,26780,3.8116,5458
+"melón","arcilloso","aspersión","química","alto",6182,10392,1.681,4033
+"cacao","franco","gravedad","orgánica","medio",6541,1640,0.2507,3817
+"sandía","franco","goteo","orgánica","medio",5813,12097,2.081,5538
+"banano","franco-arcilloso","aspersión","química","bajo",8173,26657,3.2616,4599
+"banano","franco","gravedad","orgánica","medio",6365,23973,3.7664,2889
+"banano","franco","gravedad","orgánica","medio",5484,23524,4.2896,4021
+"sandía","franco-arcilloso","goteo","química","medio",8356,7301,0.8737,4801
+"cacao","arenoso","gravedad","orgánica","bajo",6778,1674,0.247,4050
+"melón","franco-arcilloso","goteo","orgánica","medio",7781,10154,1.305,5236
+"melón","franco","goteo","orgánica","medio",4296,10802,2.5144,2462
+"cacao","arenoso","aspersión","orgánica","bajo",6618,1583,0.2392,5430
+"sandía","franco","goteo","orgánica","bajo",7926,13628,1.7194,4389
+"sandía","franco","aspersión","orgánica","alto",8411,11861,1.4102,3269
+"melón","arenoso","aspersión","orgánica","medio",9656,10030,1.0387,4104
+"arroz","franco","aspersión","química","medio",5956,7340,1.2324,3851
+"melón","arcilloso","gravedad","mixta","medio",7251,8574,1.1825,3673
+"sandía","franco-arcilloso","goteo","química","bajo",6026,11372,1.8872,3322
+"cacao","franco","goteo","mixta","medio",7318,1714,0.2342,3284
+"arroz","arcilloso","goteo","química","bajo",6984,7806,1.1177,3592
+"sandía","franco","aspersión","mixta","bajo",6264,11520,1.8391,4395
+"sandía","arcilloso","goteo","mixta","bajo",6667,12801,1.9201,4459
+"sandía","franco-arcilloso","gravedad","química","alto",7467,14280,1.9124,3591
+"sandía","franco-arcilloso","goteo","mixta","medio",10166,11592,1.1403,3939
+"maíz","arenoso","aspersión","orgánica","bajo",6115,7961,1.3019,4580
+"melón","arcilloso","gravedad","mixta","bajo",6000,7966,1.3277,4806
+"plátano verde","arenoso","aspersión","mixta","medio",6041,26079,4.317,5033
+"maíz","arenoso","gravedad","orgánica","bajo",7526,7314,0.9718,3424
+"banano","franco","goteo","orgánica","alto",7314,28213,3.8574,3900
+"maíz","arcilloso","aspersión","química","medio",5986,8353,1.3954,5152
+"cacao","franco","aspersión","mixta","alto",6441,1774,0.2754,4259
+"sandía","arcilloso","aspersión","orgánica","medio",6801,11290,1.66,5337
+"melón","franco-arcilloso","gravedad","orgánica","alto",6256,10859,1.7358,3896
+"maíz","franco-arcilloso","aspersión","orgánica","bajo",6876,8286,1.2051,3546
+"sandía","arcilloso","goteo","orgánica","medio",7176,12035,1.6771,3042
+"plátano verde","franco","gravedad","orgánica","medio",6217,22930,3.6883,4510
+"melón","arcilloso","goteo","mixta","medio",4309,10507,2.4384,3651
+"arroz","franco-arcilloso","goteo","orgánica","medio",4826,8585,1.7789,4240
+"arroz","franco-arcilloso","gravedad","mixta","medio",7696,6974,0.9062,5174
+"plátano verde","arenoso","gravedad","mixta","bajo",8631,20319,2.3542,3643
+"melón","arcilloso","goteo","orgánica","medio",5951,9485,1.5938,3191
+"plátano verde","franco-arcilloso","gravedad","química","medio",6112,20268,3.3161,2688
+"plátano verde","arcilloso","gravedad","orgánica","bajo",6482,20406,3.1481,2081
+"arroz","arcilloso","goteo","mixta","bajo",9161,8562,0.9346,5151
+"plátano verde","franco-arcilloso","aspersión","mixta","bajo",8042,20257,2.5189,2828
+"arroz","franco-arcilloso","goteo","química","medio",5647,7997,1.4162,5953
+"melón","franco","goteo","química","medio",4602,9097,1.9767,4504
+"arroz","arenoso","goteo","química","medio",5798,7411,1.2782,4410
+"cacao","arcilloso","aspersión","química","alto",6106,1248,0.2044,5625
+"arroz","franco","aspersión","orgánica","medio",5722,8804,1.5386,3563
+"arroz","arenoso","gravedad","mixta","bajo",6717,8386,1.2485,4607
+"plátano verde","franco-arcilloso","aspersión","mixta","bajo",6402,24269,3.7908,3773
+"cacao","franco-arcilloso","aspersión","mixta","medio",6172,1485,0.2406,4520
+"melón","arcilloso","gravedad","mixta","bajo",8090,10010,1.2373,3486
+"maíz","arenoso","aspersión","mixta","medio",13775,2734,0.1985,4659
+"melón","arcilloso","goteo","orgánica","bajo",7979,8691,1.0892,4200
+"arroz","arenoso","gravedad","química","medio",6595,7794,1.1818,6107
+"arroz","franco-arcilloso","gravedad","mixta","medio",8682,8508,0.98,3930
+"plátano verde","arcilloso","goteo","orgánica","bajo",7237,22049,3.0467,5340
+"plátano verde","franco-arcilloso","goteo","orgánica","medio",3691,21414,5.8017,4872
+"cacao","franco","aspersión","química","bajo",9072,1441,0.1588,3338
+"plátano verde","franco-arcilloso","goteo","orgánica","alto",5314,24483,4.6073,4438
+"cacao","franco","aspersión","mixta","medio",6467,1280,0.1979,3132
+"banano","arenoso","goteo","química","bajo",7642,21760,2.8474,4363
+"cacao","franco-arcilloso","goteo","mixta","medio",4922,1359,0.2761,4286
+"cacao","arcilloso","gravedad","orgánica","bajo",5594,1308,0.2338,5300
+"arroz","franco-arcilloso","gravedad","orgánica","medio",6802,7523,1.106,5352
+"banano","franco-arcilloso","goteo","orgánica","alto",7764,29149,3.7544,2013
+"plátano verde","franco-arcilloso","gravedad","química","alto",9498,24727,2.6034,4849
+"maíz","franco","gravedad","orgánica","bajo",8380,9794,1.1687,4962
+"sandía","arenoso","goteo","orgánica","alto",6703,12589,1.8781,4314
+"arroz","franco-arcilloso","gravedad","mixta","bajo",7334,7932,1.0815,4354
+"plátano verde","franco-arcilloso","goteo","orgánica","bajo",4715,23707,5.028,5205
+"cacao","franco-arcilloso","gravedad","química","medio",5932,1120,0.1888,2924
+"banano","arcilloso","goteo","mixta","alto",6016,22058,3.6666,3669
+"maíz","franco-arcilloso","aspersión","química","medio",7530,8316,1.1044,4289
+"banano","arcilloso","aspersión","química","bajo",5992,22435,3.7442,3464
+"sandía","franco","gravedad","orgánica","medio",8449,12418,1.4698,3653
+"banano","arenoso","gravedad","orgánica","medio",5957,25786,4.3287,3768
+"arroz","arenoso","goteo","química","medio",8503,7177,0.8441,4209
+"plátano verde","franco-arcilloso","aspersión","orgánica","medio",6644,15348,2.3101,3331
+"melón","franco","goteo","orgánica","medio",6413,10458,1.6308,3640
+"plátano verde","franco","goteo","mixta","medio",7287,18000,2.4702,3452
+"arroz","arenoso","aspersión","mixta","bajo",7205,6367,0.8837,3285
+"sandía","franco-arcilloso","aspersión","química","medio",8180,11375,1.3906,4127
+"arroz","arcilloso","goteo","orgánica","alto",7889,7106,0.9007,4185
+"sandía","arenoso","gravedad","química","medio",7929,12404,1.5644,2778
+"maíz","franco-arcilloso","goteo","química","bajo",5885,8192,1.392,1754
+"maíz","arcilloso","aspersión","orgánica","medio",5099,9854,1.9325,3394
+"cacao","arenoso","gravedad","química","medio",7433,1380,0.1857,4201
+"melón","franco","goteo","química","alto",5641,11081,1.9644,4100
+"plátano verde","franco","gravedad","química","bajo",4359,21221,4.8683,4454
+"melón","arcilloso","gravedad","química","medio",9566,10551,1.103,4142
+"cacao","arcilloso","gravedad","orgánica","alto",7477,1537,0.2056,3339
+"arroz","franco-arcilloso","gravedad","orgánica","bajo",6835,6967,1.0193,2555
+"sandía","arcilloso","aspersión","orgánica","bajo",9340,11536,1.2351,4873
+"banano","arcilloso","goteo","mixta","medio",6151,30015,4.8797,3703
+"banano","arenoso","aspersión","orgánica","bajo",5932,25382,4.2788,3357
+"melón","franco-arcilloso","aspersión","mixta","alto",8299,10970,1.3218,4010
+"melón","franco","aspersión","orgánica","medio",5365,9658,1.8002,4860
+"cacao","franco","aspersión","química","alto",5593,1756,0.314,4219
+"cacao","franco-arcilloso","goteo","orgánica","bajo",6986,1137,0.1628,3808
+"melón","franco","goteo","mixta","medio",8786,12869,1.4647,3993
+"melón","franco-arcilloso","gravedad","química","medio",7587,9743,1.2842,3003
+"sandía","arenoso","goteo","orgánica","alto",5112,13069,2.5565,3240
+"cacao","franco","gravedad","mixta","bajo",8947,1466,0.1639,3308
+"sandía","arenoso","aspersión","química","medio",7176,13077,1.8223,4525
+"plátano verde","arcilloso","goteo","mixta","bajo",7766,21707,2.7951,3734
+"melón","franco-arcilloso","goteo","orgánica","medio",7385,9096,1.2317,4646
+"plátano verde","franco","gravedad","mixta","alto",7946,23615,2.9719,5131
+"sandía","arcilloso","aspersión","química","bajo",4320,13048,3.0204,4353
+"banano","arcilloso","gravedad","orgánica","medio",7978,22892,2.8694,4237
+"sandía","franco","gravedad","orgánica","bajo",7794,10886,1.3967,2677
+"banano","franco","aspersión","orgánica","bajo",7143,24163,3.3828,4880
+"melón","franco","gravedad","orgánica","medio",8018,11493,1.4334,3936
+"sandía","arenoso","goteo","química","alto",5027,10595,2.1076,2259
+"maíz","franco-arcilloso","gravedad","mixta","bajo",7315,8272,1.1308,5283
+"melón","arenoso","goteo","orgánica","medio",6340,9885,1.5591,4612
+"cacao","franco-arcilloso","gravedad","química","bajo",6482,1423,0.2195,3543
+"plátano verde","arenoso","gravedad","química","medio",8666,20439,2.3585,3103
+"melón","arenoso","aspersión","química","medio",7491,12373,1.6517,4051
+"melón","arcilloso","aspersión","orgánica","bajo",6436,8685,1.3494,1529
+"banano","arcilloso","aspersión","química","bajo",6538,22165,3.3902,4463
+"arroz","franco-arcilloso","goteo","orgánica","medio",12552,2360,0.188,4233
+"banano","arcilloso","goteo","mixta","medio",8311,24780,2.9816,3543
+"melón","franco","gravedad","mixta","medio",7047,11176,1.5859,2659
+"arroz","arenoso","aspersión","química","bajo",8499,7756,0.9126,3833
+"plátano verde","franco-arcilloso","goteo","química","medio",6355,21530,3.3879,3520
+"sandía","franco-arcilloso","aspersión","química","medio",8116,13381,1.6487,3116
+"cacao","franco","gravedad","química","alto",8130,1578,0.1941,4827
+"plátano verde","arenoso","goteo","mixta","medio",3554,20136,5.6657,4167
+"cacao","franco-arcilloso","goteo","química","alto",3917,1491,0.3806,3771
+"banano","franco-arcilloso","aspersión","química","bajo",7304,27361,3.746,3533
+"plátano verde","arenoso","gravedad","mixta","medio",7027,21080,2.9999,4891
+"arroz","franco","aspersión","orgánica","medio",4778,9217,1.929,3274
+"melón","arcilloso","aspersión","orgánica","medio",6274,10180,1.6226,2694
+"plátano verde","franco-arcilloso","aspersión","mixta","alto",6911,27661,4.0025,4331
+"plátano verde","franco-arcilloso","aspersión","química","alto",7301,24371,3.338,3853
+"arroz","franco-arcilloso","goteo","mixta","bajo",9015,6857,0.7606,2880
+"plátano verde","arcilloso","aspersión","química","bajo",7769,17535,2.257,2727
+"cacao","franco","aspersión","mixta","bajo",5893,1508,0.2559,3415
+"sandía","arenoso","goteo","química","medio",5084,10154,1.9972,4206
+"plátano verde","arcilloso","goteo","orgánica","alto",7698,25000,3.2476,3703
+"sandía","franco","goteo","química","alto",4825,14321,2.9681,4245
+"plátano verde","arenoso","goteo","mixta","alto",5000,24467,4.8934,3021
+"arroz","arcilloso","gravedad","orgánica","bajo",6878,7485,1.0883,2998
+"melón","arcilloso","aspersión","química","alto",6708,11617,1.7318,3904
+"sandía","arcilloso","aspersión","mixta","medio",6078,12958,2.132,3979
+"melón","franco","goteo","química","alto",6057,10287,1.6984,3884
+"cacao","franco","goteo","orgánica","alto",5778,1700,0.2942,3596
+"cacao","franco-arcilloso","gravedad","mixta","medio",5299,1429,0.2697,3439
+"cacao","franco-arcilloso","goteo","orgánica","bajo",6998,1259,0.1799,3761
+"maíz","franco-arcilloso","aspersión","química","medio",4941,10393,2.1034,3395
+"melón","arcilloso","gravedad","química","bajo",6478,9702,1.4977,4687
+"melón","franco","gravedad","química","alto",6642,12223,1.8403,3478
+"arroz","arenoso","aspersión","química","bajo",5506,7418,1.3473,3804
+"arroz","arcilloso","aspersión","química","alto",7684,8055,1.0483,3185
+"sandía","franco-arcilloso","aspersión","química","bajo",6614,11793,1.783,3922
+"banano","arcilloso","gravedad","química","medio",7881,27242,3.4567,4550
+"arroz","franco","aspersión","orgánica","bajo",8473,9411,1.1107,4672
+"sandía","arcilloso","aspersión","mixta","alto",7090,12662,1.7859,5232
+"melón","franco","gravedad","mixta","bajo",6416,9053,1.411,4981
+"cacao","franco-arcilloso","gravedad","orgánica","medio",7106,1647,0.2318,2814
+"melón","franco","goteo","química","alto",5639,7376,1.308,3749
+"melón","franco","goteo","mixta","bajo",7463,7779,1.0423,5210
+"arroz","franco","goteo","química","bajo",6225,9658,1.5515,3133
+"sandía","arcilloso","aspersión","química","medio",11053,3549,0.3211,4269
+"melón","franco-arcilloso","goteo","orgánica","alto",7493,9842,1.3135,2815
+"arroz","arcilloso","aspersión","química","alto",7649,9007,1.1775,4457
+"melón","arcilloso","goteo","orgánica","bajo",6206,9877,1.5915,4346
+"plátano verde","arcilloso","goteo","química","alto",7072,19368,2.7387,4988
+"arroz","franco","goteo","química","medio",6337,7675,1.2111,3280
+"maíz","franco","aspersión","mixta","medio",7230,8836,1.2221,2641
+"plátano verde","arenoso","aspersión","orgánica","medio",8418,23886,2.8375,2937
+"plátano verde","arenoso","goteo","orgánica","medio",6408,23826,3.7182,4555
+"maíz","arcilloso","gravedad","química","alto",5696,10019,1.759,4770
+"plátano verde","franco-arcilloso","goteo","mixta","alto",4790,22559,4.7096,3652
+"cacao","arcilloso","goteo","química","alto",7439,1563,0.2101,3728
+"arroz","franco-arcilloso","aspersión","orgánica","medio",6631,9675,1.4591,4284
+"banano","franco","gravedad","mixta","alto",6908,27573,3.9915,3909
+"maíz","arcilloso","aspersión","mixta","medio",7878,7855,0.9971,4216
+"banano","arenoso","goteo","orgánica","medio",5935,29174,4.9156,4492
+"sandía","franco-arcilloso","gravedad","química","medio",7077,11604,1.6397,2751
+"banano","arcilloso","aspersión","mixta","alto",7931,29369,3.7031,3263
+"arroz","franco","goteo","química","alto",4046,9426,2.3297,3713
+"sandía","arenoso","gravedad","química","medio",7105,9762,1.374,2797
+"maíz","arenoso","aspersión","química","medio",6316,9666,1.5304,5534
+"banano","franco","gravedad","química","bajo",6617,21940,3.3157,3537
+"arroz","arcilloso","goteo","orgánica","bajo",7415,8317,1.1216,3954
+"plátano verde","franco","aspersión","orgánica","bajo",6164,22075,3.5813,4234
+"banano","franco-arcilloso","aspersión","mixta","medio",6400,26141,4.0845,3192
+"cacao","franco","aspersión","orgánica","alto",6649,1492,0.2244,2689
+"arroz","franco-arcilloso","aspersión","orgánica","bajo",8916,7821,0.8772,3656
+"maíz","arcilloso","aspersión","química","medio",5716,8856,1.5493,4233
+"cacao","franco","goteo","orgánica","medio",6964,1677,0.2408,5086
+"plátano verde","franco-arcilloso","goteo","mixta","bajo",8738,24074,2.7551,5480
+"plátano verde","franco-arcilloso","gravedad","química","alto",5901,19951,3.381,2240
+"plátano verde","arenoso","goteo","orgánica","bajo",7012,18624,2.656,3639
+"arroz","arcilloso","aspersión","orgánica","medio",5856,8289,1.4155,3494
+"sandía","franco","goteo","mixta","bajo",6430,11367,1.7678,3260
+"banano","arcilloso","aspersión","mixta","medio",6968,25388,3.6435,4939
+"arroz","franco","aspersión","química","medio",8355,7539,0.9023,3296
+"sandía","arcilloso","goteo","orgánica","bajo",8654,10328,1.1934,3119
+"plátano verde","franco-arcilloso","aspersión","mixta","bajo",6697,15713,2.3463,2877
+"melón","franco-arcilloso","aspersión","orgánica","medio",5965,9629,1.6142,5226
+"maíz","arcilloso","goteo","química","medio",4133,9059,2.1919,2972
+"sandía","franco-arcilloso","gravedad","mixta","bajo",8692,13393,1.5408,5033
+"cacao","arcilloso","gravedad","química","medio",7384,1236,0.1674,4394
+"cacao","franco","goteo","mixta","medio",6965,1438,0.2065,4193
+"arroz","franco","aspersión","mixta","medio",6963,6284,0.9025,3432
+"banano","franco","goteo","orgánica","medio",6877,27098,3.9404,5589
+"plátano verde","arcilloso","aspersión","química","medio",7290,24908,3.4167,3905
+"maíz","franco","aspersión","química","medio",7158,8664,1.2104,3977
+"banano","franco","aspersión","mixta","bajo",5437,21409,3.9376,4207
+"maíz","arenoso","gravedad","química","medio",7154,7772,1.0864,4626
+"banano","arenoso","goteo","química","medio",7352,25149,3.4207,3901
+"banano","arcilloso","goteo","orgánica","alto",7572,29618,3.9115,4429
+"maíz","arenoso","gravedad","orgánica","bajo",8384,8314,0.9917,4596
+"banano","franco","gravedad","química","bajo",6618,24119,3.6445,3551
+"banano","arcilloso","gravedad","orgánica","medio",8823,22524,2.5529,3679
+"melón","arcilloso","gravedad","orgánica","bajo",8235,11439,1.3891,3794
+"melón","franco","gravedad","química","bajo",7458,10943,1.4673,5141
+"arroz","franco","goteo","orgánica","bajo",6009,5786,0.9629,3881
+"banano","arenoso","gravedad","mixta","medio",7528,24927,3.3112,4499
+"banano","arcilloso","goteo","mixta","medio",6598,22255,3.373,4586
+"plátano verde","franco-arcilloso","goteo","química","medio",7016,23400,3.3352,4200
+"plátano verde","franco-arcilloso","goteo","orgánica","medio",5774,21669,3.7529,1728
+"melón","arcilloso","goteo","química","medio",7071,9614,1.3596,3116
+"arroz","franco-arcilloso","gravedad","mixta","alto",10051,2938,0.2923,3659
+"sandía","arenoso","goteo","mixta","medio",10095,4824,0.4779,4037
+"plátano verde","arcilloso","gravedad","química","bajo",7335,22069,3.0087,2949
+"melón","arenoso","gravedad","química","medio",7117,10070,1.4149,3016
+"plátano verde","franco","gravedad","mixta","bajo",6176,23386,3.7866,3936
+"melón","arcilloso","aspersión","orgánica","alto",5898,9823,1.6655,3479
+"plátano verde","arcilloso","goteo","mixta","alto",4892,24152,4.937,3806
+"cacao","arenoso","gravedad","orgánica","medio",7770,1582,0.2036,4338
+"arroz","arcilloso","aspersión","orgánica","medio",9685,2922,0.3017,5643
+"maíz","franco","aspersión","química","medio",7012,7890,1.1252,3184
+"plátano verde","franco","gravedad","mixta","medio",6248,20856,3.338,3269
+"arroz","arcilloso","goteo","orgánica","bajo",4111,8000,1.946,4152
+"maíz","franco-arcilloso","goteo","mixta","alto",4470,9314,2.0837,4095
+"banano","franco","aspersión","mixta","medio",5557,28771,5.1774,4280
+"banano","franco","goteo","orgánica","medio",5194,23453,4.5154,3074
+"arroz","arcilloso","gravedad","mixta","medio",6976,7979,1.1438,3612
+"plátano verde","arcilloso","goteo","orgánica","bajo",6104,18515,3.0333,4076
+"plátano verde","franco-arcilloso","aspersión","química","medio",6758,21934,3.2456,4381
+"melón","arenoso","aspersión","orgánica","medio",7133,9397,1.3174,4489
+"banano","franco-arcilloso","aspersión","mixta","bajo",7489,23584,3.1492,4092
+"arroz","arenoso","goteo","mixta","medio",7034,6954,0.9886,2968
+"maíz","arcilloso","gravedad","orgánica","medio",9397,8513,0.9059,3735
+"arroz","arenoso","goteo","orgánica","alto",6027,8217,1.3634,4524
+"sandía","franco-arcilloso","goteo","mixta","medio",5896,12296,2.0855,4990
+"melón","arcilloso","gravedad","orgánica","medio",8064,11668,1.4469,4017
+"cacao","franco-arcilloso","goteo","orgánica","alto",9169,1624,0.1771,2724
+"maíz","franco","gravedad","orgánica","medio",9586,8857,0.924,3766
+"arroz","franco","goteo","orgánica","alto",5482,8115,1.4803,3097
+"cacao","arenoso","aspersión","mixta","medio",8092,1510,0.1866,3894
+"plátano verde","franco-arcilloso","gravedad","orgánica","medio",10553,12337,1.1691,4037
+"maíz","arenoso","aspersión","química","medio",7018,9575,1.3643,4854
+"plátano verde","arcilloso","gravedad","mixta","medio",8561,20938,2.4457,3405
+"cacao","arenoso","gravedad","mixta","bajo",7985,1810,0.2267,4359
+"banano","franco","gravedad","orgánica","medio",7066,28354,4.0127,4861
+"plátano verde","franco-arcilloso","gravedad","química","medio",5394,22823,4.2312,4808
+"cacao","franco","gravedad","mixta","bajo",7045,1486,0.2109,4166
+"melón","franco-arcilloso","gravedad","orgánica","medio",7958,9916,1.246,4393
+"cacao","franco-arcilloso","goteo","mixta","medio",5030,1181,0.2348,4411
+"maíz","arenoso","aspersión","orgánica","bajo",5858,9489,1.6198,4353
+"maíz","arcilloso","goteo","mixta","medio",8447,9028,1.0688,5734
+"plátano verde","arenoso","aspersión","mixta","medio",6965,22077,3.1697,3653
+"melón","franco","gravedad","química","alto",6495,11009,1.695,2968
+"melón","franco-arcilloso","goteo","orgánica","medio",7506,12620,1.6813,4769
+"melón","franco-arcilloso","gravedad","química","alto",19589,3419,0.1745,3504
+"banano","franco-arcilloso","gravedad","orgánica","medio",5222,24734,4.7365,3918
+"banano","franco","aspersión","orgánica","bajo",7438,26211,3.5239,4120
+"maíz","franco","aspersión","orgánica","medio",7748,9225,1.1906,5263
+"plátano verde","arcilloso","gravedad","mixta","bajo",7493,15737,2.1002,5051
+"sandía","franco-arcilloso","gravedad","orgánica","bajo",6805,10300,1.5136,3961
+"banano","arcilloso","aspersión","química","medio",7487,18651,2.4911,3535
+"banano","franco","aspersión","mixta","medio",8073,27660,3.4262,3032
+"plátano verde","franco-arcilloso","aspersión","mixta","medio",7992,24394,3.0523,4051
+"sandía","franco","aspersión","química","medio",5960,12095,2.0294,4625
+"banano","franco-arcilloso","aspersión","orgánica","medio",6626,26363,3.9787,7300
+"plátano verde","franco","goteo","mixta","medio",5394,23033,4.2701,4280
+"arroz","arenoso","goteo","química","bajo",7176,9122,1.2712,4324
+"arroz","arcilloso","goteo","mixta","bajo",7780,8114,1.0429,4291
+"arroz","arcilloso","aspersión","orgánica","medio",7557,7265,0.9614,5167
+"plátano verde","arcilloso","aspersión","mixta","alto",7754,23655,3.0507,3620
+"cacao","franco","aspersión","química","medio",7483,1380,0.1844,4554
+"melón","arenoso","gravedad","mixta","medio",4962,11554,2.3285,4628
+"cacao","arenoso","aspersión","orgánica","medio",8452,1636,0.1936,4822
+"plátano verde","franco","gravedad","química","medio",7592,22311,2.9388,5624
+"cacao","franco-arcilloso","goteo","orgánica","medio",7060,1216,0.1722,5365
+"arroz","franco","aspersión","mixta","medio",7903,8918,1.1284,4937
+"plátano verde","franco","gravedad","química","medio",5752,21473,3.7331,4884
+"banano","franco","aspersión","química","medio",7091,24211,3.4143,4093
+"arroz","arcilloso","aspersión","mixta","bajo",7850,7879,1.0037,5052
+"sandía","arcilloso","aspersión","orgánica","bajo",6046,12982,2.1472,4909
+"maíz","arenoso","goteo","orgánica","bajo",4504,8233,1.8279,3004
+"plátano verde","arcilloso","goteo","química","bajo",6334,20507,3.2376,5135
+"banano","arenoso","aspersión","orgánica","medio",7236,26192,3.6197,3870
+"arroz","arcilloso","aspersión","química","medio",8000,8449,1.0561,4012
+"maíz","arcilloso","gravedad","química","medio",10066,8199,0.8145,3413
+"arroz","franco","aspersión","mixta","medio",5473,6708,1.2257,2926
+"cacao","arenoso","aspersión","orgánica","alto",8252,1403,0.17,3596
+"sandía","arenoso","goteo","mixta","alto",8238,11397,1.3835,4620
+"cacao","arcilloso","gravedad","química","bajo",6912,1300,0.1881,3316
+"cacao","arenoso","goteo","orgánica","medio",6980,1641,0.2351,3878
+"sandía","arenoso","goteo","mixta","bajo",8873,11940,1.3457,3081
+"banano","franco","aspersión","química","medio",8544,20957,2.4528,4326
+"cacao","franco-arcilloso","aspersión","química","alto",8432,1705,0.2022,4088
+"cacao","franco-arcilloso","goteo","mixta","alto",7125,1732,0.2431,3528
+"melón","franco-arcilloso","aspersión","química","medio",6257,9800,1.5662,2463
+"arroz","arenoso","goteo","química","medio",5775,8280,1.4338,2969
+"arroz","franco-arcilloso","aspersión","mixta","medio",7585,6447,0.85,3883
+"cacao","arenoso","goteo","química","bajo",8928,1346,0.1508,5507
+"maíz","arenoso","aspersión","mixta","alto",7599,10350,1.362,3348
+"banano","arenoso","goteo","mixta","medio",6981,25748,3.6883,2637
+"plátano verde","arenoso","gravedad","orgánica","bajo",7100,20060,2.8254,3634
+"melón","arcilloso","goteo","química","bajo",6419,10341,1.611,3304
+"arroz","franco-arcilloso","goteo","orgánica","medio",9083,6848,0.7539,3955
+"plátano verde","arcilloso","goteo","mixta","alto",7282,18676,2.5647,3823
+"banano","arcilloso","gravedad","mixta","medio",6146,24705,4.0197,5720
+"maíz","franco","gravedad","mixta","bajo",7500,8014,1.0685,3839
+"plátano verde","franco-arcilloso","goteo","química","medio",7397,11347,1.534,4621
+"sandía","arenoso","goteo","orgánica","bajo",5891,12613,2.1411,3379
+"arroz","arenoso","goteo","orgánica","bajo",6749,7932,1.1753,4777
+"arroz","arenoso","gravedad","orgánica","medio",9178,7399,0.8062,3395
+"plátano verde","franco-arcilloso","goteo","orgánica","bajo",11356,9546,0.8406,2921
+"arroz","franco","goteo","orgánica","medio",6369,7731,1.2138,3340
+"banano","arenoso","goteo","química","alto",5553,25335,4.5624,2970
+"plátano verde","arcilloso","aspersión","mixta","medio",7802,23560,3.0197,4778
+"arroz","franco-arcilloso","aspersión","orgánica","bajo",6011,8404,1.3981,3294
+"sandía","arenoso","gravedad","química","bajo",7740,10986,1.4194,4878
+"arroz","arcilloso","goteo","química","bajo",7648,6522,0.8528,4904
+"cacao","arcilloso","goteo","química","bajo",5967,1344,0.2252,3363
+"melón","franco-arcilloso","aspersión","química","medio",6254,10969,1.7539,4435
+"maíz","arenoso","aspersión","química","bajo",7878,7753,0.9841,4031
+"plátano verde","franco-arcilloso","goteo","mixta","bajo",6869,16056,2.3375,3453
+"sandía","arenoso","aspersión","química","medio",5824,10319,1.7718,3119
+"banano","arenoso","aspersión","mixta","medio",4590,27307,5.9492,3729
+"melón","arenoso","gravedad","mixta","alto",6141,11001,1.7914,5083
+"banano","franco-arcilloso","goteo","mixta","medio",6847,21266,3.1059,4392
+"sandía","franco","aspersión","orgánica","medio",6436,12859,1.998,3744
+"melón","arcilloso","goteo","mixta","medio",5963,10389,1.7422,5018
+"sandía","franco-arcilloso","gravedad","mixta","bajo",7733,9674,1.251,4117
+"maíz","franco","aspersión","química","alto",6236,10054,1.6123,4520
+"plátano verde","arenoso","gravedad","mixta","medio",8987,17964,1.9989,4667
+"melón","franco","gravedad","mixta","alto",5363,8504,1.5857,3394
+"melón","arcilloso","goteo","orgánica","medio",5515,10384,1.8829,3420
+"maíz","franco","aspersión","química","bajo",6717,8507,1.2665,4619
+"melón","arenoso","goteo","orgánica","bajo",5299,10386,1.96,2473
+"sandía","arcilloso","aspersión","mixta","medio",7070,11129,1.5741,3101
+"plátano verde","arcilloso","goteo","mixta","medio",5099,21016,4.1216,4100
+"banano","arcilloso","aspersión","orgánica","bajo",8344,20743,2.486,3151
+"cacao","arenoso","aspersión","mixta","bajo",5730,1318,0.23,2752
+"maíz","arenoso","aspersión","química","bajo",8141,10363,1.2729,3968
+"arroz","franco","gravedad","orgánica","alto",15485,4048,0.2614,4550
+"melón","arcilloso","goteo","mixta","bajo",7030,8748,1.2444,2752
+"melón","arenoso","gravedad","química","bajo",6995,10699,1.5295,2780
+"cacao","franco","gravedad","orgánica","medio",10647,592,0.0556,3452
+"plátano verde","franco","goteo","mixta","medio",11606,8342,0.7188,4631
+"banano","franco-arcilloso","goteo","mixta","medio",9139,19541,2.1382,2665
+"banano","franco","gravedad","orgánica","medio",8381,23168,2.7643,4080
+"banano","arenoso","aspersión","orgánica","bajo",7898,24835,3.1445,3401
+"plátano verde","franco-arcilloso","aspersión","mixta","medio",7659,20514,2.6784,5228
+"arroz","arenoso","aspersión","mixta","alto",6070,9381,1.5455,1890
+"arroz","arcilloso","goteo","orgánica","medio",7076,8160,1.1532,3463
+"arroz","arenoso","goteo","mixta","alto",7223,7853,1.0872,2116
+"melón","arcilloso","gravedad","orgánica","alto",8387,11461,1.3665,3597
+"sandía","arcilloso","gravedad","orgánica","bajo",7405,11105,1.4997,4352
+"maíz","arenoso","goteo","química","bajo",7223,8531,1.1811,4110
+"arroz","arcilloso","gravedad","mixta","medio",7419,7756,1.0454,3290
+"sandía","franco","gravedad","química","bajo",7346,11985,1.6315,3491
+"cacao","franco-arcilloso","aspersión","orgánica","medio",5671,1442,0.2543,2624
+"arroz","arenoso","goteo","química","bajo",8576,7153,0.8341,3043
+"banano","arenoso","gravedad","mixta","medio",8263,27058,3.2746,4072
+"banano","franco-arcilloso","goteo","química","bajo",7067,29233,4.1366,4171
+"maíz","arenoso","goteo","mixta","medio",7990,7865,0.9844,3970
+"plátano verde","arcilloso","gravedad","química","bajo",6691,21750,3.2506,3521
+"cacao","arcilloso","gravedad","orgánica","medio",6195,1540,0.2486,4608
+"maíz","franco-arcilloso","gravedad","mixta","medio",7559,8482,1.1221,2536
+"maíz","franco","gravedad","mixta","medio",5504,10748,1.9528,4002
+"banano","arcilloso","goteo","química","alto",7337,30342,4.1355,3772
+"maíz","arenoso","gravedad","química","bajo",8664,7884,0.91,4163
+"cacao","arenoso","gravedad","mixta","bajo",8535,1166,0.1366,4729
+"banano","arenoso","gravedad","química","medio",5250,23979,4.5674,3576
+"plátano verde","franco","goteo","mixta","medio",8255,22875,2.771,4615
+"banano","arcilloso","gravedad","orgánica","bajo",8058,23691,2.9401,4066
+"cacao","franco","goteo","química","bajo",8972,1464,0.1632,3106
+"melón","franco","aspersión","orgánica","medio",8043,9425,1.1718,2821
+"cacao","franco","goteo","orgánica","medio",8593,1583,0.1842,4547
+"cacao","franco-arcilloso","aspersión","química","medio",7471,1419,0.1899,4652
+"melón","arcilloso","gravedad","química","medio",6561,11140,1.6979,4128
+"sandía","franco-arcilloso","goteo","orgánica","alto",8237,12257,1.488,4691
+"arroz","franco-arcilloso","gravedad","mixta","bajo",6574,7709,1.1726,3700
+"cacao","arenoso","gravedad","mixta","alto",6853,1593,0.2325,4178
+"maíz","arenoso","gravedad","química","medio",10796,4679,0.4334,3969
+"arroz","franco","gravedad","química","medio",7245,7374,1.0178,4063
+"plátano verde","arcilloso","gravedad","orgánica","bajo",7540,19528,2.5899,4376
+"sandía","franco-arcilloso","aspersión","química","medio",9282,13190,1.421,2991
+"sandía","franco","goteo","orgánica","bajo",8831,12245,1.3866,3160
+"cacao","franco-arcilloso","gravedad","orgánica","alto",5866,1472,0.2509,3361
+"banano","arenoso","aspersión","mixta","medio",5780,23079,3.9929,3726
+"arroz","franco","aspersión","química","medio",6602,8039,1.2177,4391
+"arroz","franco-arcilloso","goteo","mixta","bajo",5678,6682,1.1768,4986
+"cacao","arcilloso","goteo","mixta","medio",6791,1712,0.2521,4081
+"arroz","arenoso","aspersión","química","bajo",7878,8883,1.1276,3861
+"arroz","franco","gravedad","orgánica","medio",7267,9251,1.273,4807
+"melón","arenoso","goteo","mixta","medio",7836,9967,1.2719,5196
+"banano","franco","goteo","orgánica","medio",4038,23323,5.7759,3368
+"maíz","arenoso","goteo","mixta","medio",7100,8874,1.2499,3383
+"arroz","arenoso","goteo","química","medio",5597,8122,1.4511,4064
+"arroz","franco-arcilloso","aspersión","orgánica","medio",3746,7370,1.9674,3891
+"arroz","arenoso","gravedad","química","bajo",10320,8325,0.8067,3577
+"banano","franco","gravedad","orgánica","bajo",9994,25926,2.5942,3701
+"arroz","franco","gravedad","mixta","medio",7687,8394,1.092,4080
+"sandía","arenoso","gravedad","química","medio",7747,12061,1.5569,4841
+"plátano verde","arcilloso","aspersión","química","medio",6802,23004,3.3819,3534
+"arroz","franco","goteo","química","alto",7850,7056,0.8989,3334
+"melón","arcilloso","gravedad","orgánica","bajo",8438,10117,1.199,2949
+"sandía","franco-arcilloso","aspersión","orgánica","medio",6874,11108,1.6159,3948
+"banano","arenoso","aspersión","química","medio",5844,25957,4.4416,4009
+"plátano verde","arcilloso","aspersión","mixta","medio",6739,24286,3.6038,2587
+"banano","franco-arcilloso","gravedad","química","bajo",8870,24815,2.7976,5310
+"banano","franco-arcilloso","aspersión","química","medio",8035,27062,3.368,3934
+"cacao","arenoso","aspersión","mixta","bajo",4993,1634,0.3273,3633
+"sandía","franco-arcilloso","aspersión","mixta","bajo",5183,11070,2.1358,6687
+"cacao","arenoso","goteo","orgánica","alto",7333,1652,0.2253,4203
+"banano","franco","aspersión","química","bajo",6690,25758,3.8502,3928
+"banano","franco","goteo","química","bajo",8273,25039,3.0266,5925
+"banano","franco-arcilloso","goteo","química","medio",5683,27768,4.8862,2742
+"banano","franco-arcilloso","gravedad","química","bajo",6125,20810,3.3976,4344
+"cacao","franco-arcilloso","gravedad","orgánica","bajo",18112,528,0.0292,3505
+"maíz","arenoso","goteo","química","bajo",6382,8391,1.3148,4120
+"plátano verde","franco-arcilloso","gravedad","orgánica","alto",8117,20845,2.5681,3373
+"banano","arcilloso","aspersión","orgánica","medio",8511,20969,2.4638,4299
+"plátano verde","franco","goteo","mixta","bajo",11884,9220,0.7758,4538
+"arroz","arenoso","gravedad","química","medio",7234,8197,1.1331,3792
+"sandía","arcilloso","goteo","orgánica","bajo",6758,12996,1.9231,3439
+"plátano verde","arenoso","aspersión","química","bajo",7305,19570,2.679,3660
+"plátano verde","arenoso","aspersión","química","alto",9562,23233,2.4297,4226
+"melón","franco-arcilloso","aspersión","orgánica","bajo",6617,9094,1.3743,4631
+"maíz","franco","aspersión","mixta","medio",4132,9184,2.2227,2520
+"sandía","arenoso","goteo","mixta","medio",4956,11028,2.2252,3805
+"plátano verde","arcilloso","aspersión","química","medio",5574,21331,3.8269,2881
+"sandía","arcilloso","aspersión","orgánica","medio",7969,12534,1.5728,4326
+"arroz","arenoso","aspersión","química","medio",11836,2877,0.2431,3534
+"maíz","franco-arcilloso","aspersión","mixta","medio",7381,8382,1.1356,5782
+"banano","arenoso","goteo","orgánica","medio",7665,24235,3.1618,4262
+"maíz","arenoso","aspersión","química","medio",7269,8389,1.1541,4058
+"cacao","franco","goteo","orgánica","medio",7747,1747,0.2255,4333
+"banano","franco-arcilloso","goteo","química","alto",9533,27050,2.8375,3722
+"melón","franco-arcilloso","gravedad","mixta","medio",9755,9839,1.0086,3413
+"arroz","arenoso","aspersión","mixta","medio",7875,6923,0.8791,2500
+"maíz","arenoso","gravedad","química","medio",5007,7692,1.5362,3614
+"melón","franco-arcilloso","aspersión","mixta","alto",5916,9838,1.6629,3766
+"arroz","franco-arcilloso","gravedad","química","medio",8598,7713,0.8971,2340
+"maíz","arcilloso","gravedad","orgánica","alto",6853,8658,1.2634,4224
+"maíz","franco-arcilloso","goteo","orgánica","bajo",6951,8737,1.2569,2909
+"plátano verde","franco-arcilloso","gravedad","mixta","bajo",4986,21308,4.2736,3965
+"banano","arenoso","goteo","orgánica","medio",5585,24348,4.3595,3950
+"arroz","arcilloso","aspersión","mixta","alto",6133,7319,1.1934,4505
+"banano","arenoso","goteo","química","medio",5252,22148,4.2171,4086
+"plátano verde","arcilloso","gravedad","mixta","medio",6071,19526,3.2163,3546
+"sandía","arcilloso","gravedad","orgánica","medio",8605,11968,1.3908,3010
+"melón","franco-arcilloso","aspersión","química","bajo",5997,9516,1.5868,4987
+"sandía","arcilloso","aspersión","química","bajo",7124,13113,1.8407,3822
+"cacao","arenoso","goteo","orgánica","bajo",10992,457,0.0416,4582
+"melón","arenoso","goteo","orgánica","medio",6497,10353,1.5935,4111
+"arroz","arenoso","goteo","orgánica","alto",5034,7826,1.5546,2413
+"arroz","franco-arcilloso","goteo","orgánica","alto",6953,7134,1.026,3761
+"plátano verde","franco","goteo","orgánica","bajo",7034,19716,2.803,4616
+"banano","franco-arcilloso","gravedad","orgánica","medio",9577,24582,2.5668,3837
+"plátano verde","arenoso","gravedad","mixta","medio",7194,25397,3.5303,2584
+"arroz","franco","gravedad","mixta","bajo",5861,6707,1.1443,2862
+"sandía","arcilloso","gravedad","orgánica","medio",9096,11738,1.2905,3649
+"banano","franco","aspersión","mixta","bajo",8068,24822,3.0766,5489
+"cacao","arenoso","gravedad","orgánica","bajo",10801,758,0.0702,1681
+"maíz","arenoso","aspersión","orgánica","bajo",8664,8651,0.9985,3837
+"sandía","franco","gravedad","química","medio",5850,14209,2.4289,3139
+"maíz","arenoso","aspersión","orgánica","bajo",7670,9220,1.2021,4487
+"melón","arcilloso","aspersión","mixta","alto",6625,10587,1.598,3229
+"cacao","franco","gravedad","mixta","medio",7346,1419,0.1932,4082
+"melón","arenoso","gravedad","química","medio",6992,7892,1.1287,4017
+"melón","franco-arcilloso","aspersión","orgánica","alto",6684,8363,1.2512,4636
+"plátano verde","arenoso","aspersión","mixta","bajo",8137,21659,2.6618,4881
+"plátano verde","arcilloso","gravedad","mixta","bajo",8074,25001,3.0965,3474
+"melón","franco","goteo","orgánica","bajo",4987,9065,1.8177,2183
+"sandía","arcilloso","aspersión","orgánica","medio",6941,12603,1.8157,4610
+"arroz","franco-arcilloso","aspersión","orgánica","medio",8091,7809,0.9651,4677
+"sandía","franco-arcilloso","aspersión","orgánica","medio",5760,10924,1.8965,4056
+"plátano verde","arenoso","aspersión","mixta","medio",5806,20745,3.573,5306
+"plátano verde","franco","aspersión","mixta","bajo",6898,21871,3.1706,3116
+"sandía","arcilloso","goteo","mixta","medio",5329,9586,1.7988,5101
+"sandía","franco","gravedad","orgánica","alto",5993,13826,2.307,5099
+"maíz","franco-arcilloso","gravedad","química","bajo",5310,9103,1.7143,4986
+"arroz","franco","gravedad","mixta","bajo",7561,7770,1.0276,4450
+"melón","franco-arcilloso","aspersión","orgánica","medio",7212,10626,1.4734,3451
+"arroz","franco","aspersión","orgánica","medio",7038,8206,1.166,4191
+"arroz","franco","gravedad","química","alto",7305,9050,1.2389,5017
+"sandía","franco-arcilloso","aspersión","mixta","bajo",7561,9446,1.2493,4121
+"banano","arenoso","goteo","mixta","medio",8056,27360,3.3962,4063
+"maíz","arcilloso","goteo","química","bajo",6008,9594,1.5969,2514
+"cacao","arcilloso","goteo","mixta","medio",5841,1478,0.253,4368
+"plátano verde","franco","aspersión","mixta","bajo",8605,20299,2.359,4189
+"cacao","franco-arcilloso","aspersión","mixta","alto",5785,1685,0.2913,5152
+"cacao","arenoso","aspersión","mixta","medio",8688,1670,0.1922,3303
+"melón","franco","goteo","orgánica","bajo",6967,9940,1.4267,3176
+"plátano verde","arenoso","aspersión","mixta","alto",9361,23077,2.4652,3821
+"arroz","franco-arcilloso","gravedad","mixta","bajo",5813,7419,1.2763,2897
+"maíz","arenoso","gravedad","orgánica","medio",8099,8238,1.0172,3537
+"sandía","arenoso","goteo","mixta","medio",8199,11427,1.3937,2571
+"plátano verde","franco","gravedad","química","medio",6748,22848,3.3859,5131
+"banano","franco","aspersión","orgánica","alto",2789,28493,10.2162,4051
+"arroz","franco-arcilloso","goteo","química","bajo",6782,8588,1.2663,3420
+"banano","arenoso","aspersión","química","bajo",4991,27179,5.4456,4562
+"cacao","arenoso","goteo","orgánica","bajo",7305,1274,0.1744,4255
+"sandía","arcilloso","aspersión","química","bajo",9530,10475,1.0992,3859
+"maíz","franco-arcilloso","gravedad","mixta","medio",8022,8849,1.1031,4583
+"arroz","arcilloso","gravedad","mixta","medio",7094,8843,1.2465,4223
+"sandía","arenoso","gravedad","orgánica","alto",8147,12527,1.5376,3950
+"melón","arcilloso","aspersión","mixta","bajo",7333,8722,1.1894,3015
+"plátano verde","franco-arcilloso","gravedad","química","bajo",7040,17220,2.446,3909
+"plátano verde","franco-arcilloso","goteo","orgánica","bajo",8055,21721,2.6966,3530
+"maíz","franco","gravedad","mixta","bajo",6270,7427,1.1845,4397
+"melón","franco-arcilloso","goteo","química","medio",5875,9944,1.6926,3843
+"sandía","arenoso","gravedad","química","medio",7214,10772,1.4932,3138
+"maíz","franco","goteo","química","bajo",6837,8698,1.2722,1877
+"sandía","franco-arcilloso","gravedad","química","bajo",6739,12407,1.8411,5478
+"melón","arcilloso","aspersión","mixta","alto",6902,9691,1.4041,4628
+"cacao","franco-arcilloso","aspersión","orgánica","medio",7571,1585,0.2094,3007
+"arroz","franco-arcilloso","goteo","mixta","bajo",6259,8938,1.428,4039
+"arroz","arenoso","gravedad","mixta","medio",8153,8688,1.0656,3596
+"arroz","franco-arcilloso","goteo","química","medio",7427,8743,1.1772,4321
+"cacao","arcilloso","goteo","mixta","medio",5916,1432,0.2421,4458
+"melón","franco","gravedad","química","medio",6215,9180,1.4771,4451
+"banano","franco","goteo","química","bajo",7201,27753,3.854,4200
+"melón","arenoso","goteo","orgánica","medio",5860,9425,1.6084,4393
+"arroz","franco","gravedad","mixta","bajo",8313,8222,0.9891,4097
+"sandía","franco-arcilloso","gravedad","química","bajo",7418,12370,1.6676,2371
+"plátano verde","arenoso","goteo","mixta","alto",6901,20690,2.9981,3778
+"sandía","franco-arcilloso","goteo","mixta","medio",7910,14315,1.8097,3607
+"cacao","arcilloso","aspersión","orgánica","bajo",7995,1495,0.187,3191
+"arroz","arenoso","aspersión","orgánica","bajo",7239,7409,1.0235,2190
+"banano","arcilloso","goteo","química","medio",7098,21309,3.0021,5754
+"melón","arcilloso","goteo","orgánica","medio",4721,9323,1.9748,2987
+"cacao","arenoso","aspersión","química","bajo",7909,1373,0.1736,5237
+"arroz","arcilloso","gravedad","química","bajo",7775,5819,0.7484,4573
+"banano","franco","aspersión","química","bajo",7503,23191,3.0909,2540
+"maíz","arenoso","goteo","orgánica","bajo",7455,7470,1.002,4299
+"cacao","franco-arcilloso","goteo","orgánica","medio",7714,1379,0.1788,3478
+"banano","arcilloso","gravedad","mixta","medio",6172,19962,3.2343,4503
+"melón","arenoso","gravedad","orgánica","medio",8313,9917,1.193,4425
+"maíz","franco","aspersión","mixta","medio",6934,8724,1.2581,4233
+"banano","arenoso","aspersión","orgánica","medio",7604,24708,3.2493,4628
+"cacao","franco-arcilloso","goteo","orgánica","medio",5328,1419,0.2663,3596
+"arroz","arenoso","aspersión","mixta","bajo",6964,8044,1.1551,3284
+"melón","arcilloso","aspersión","química","alto",6753,10614,1.5717,3969
+"arroz","arenoso","goteo","orgánica","bajo",6420,7552,1.1763,3220
+"banano","franco","aspersión","química","bajo",6044,21302,3.5245,3884
+"plátano verde","franco","aspersión","química","medio",8522,21259,2.4946,4119
+"plátano verde","arcilloso","gravedad","mixta","medio",9129,20209,2.2137,5051
+"maíz","arcilloso","gravedad","orgánica","alto",4716,9073,1.9239,3679
+"arroz","franco","gravedad","orgánica","medio",7452,9820,1.3178,5758
+"cacao","arenoso","gravedad","mixta","alto",5863,1635,0.2789,4961
+"arroz","arenoso","gravedad","orgánica","medio",7093,7790,1.0983,3790
+"cacao","arenoso","gravedad","mixta","bajo",8515,1354,0.159,5150
+"maíz","franco-arcilloso","gravedad","mixta","alto",6458,10709,1.6583,4448
+"banano","franco","goteo","mixta","medio",5845,29740,5.0881,4249
+"maíz","arcilloso","gravedad","química","alto",5976,11041,1.8476,3308
+"melón","franco-arcilloso","aspersión","orgánica","medio",5324,10337,1.9416,5246
+"cacao","franco-arcilloso","aspersión","orgánica","alto",5432,1658,0.3052,4900
+"melón","arenoso","aspersión","química","medio",8382,9466,1.1293,2350
+"plátano verde","franco","goteo","orgánica","bajo",7397,17273,2.3351,5735
+"banano","arenoso","gravedad","química","bajo",7775,26253,3.3766,5047
+"plátano verde","franco","gravedad","mixta","medio",5042,21260,4.2166,4315
+"banano","franco-arcilloso","goteo","química","medio",5456,24241,4.443,3526
+"melón","franco-arcilloso","aspersión","mixta","medio",4180,9845,2.3553,4336
+"banano","arcilloso","gravedad","orgánica","medio",7010,26334,3.7566,3321
+"plátano verde","franco-arcilloso","goteo","química","medio",6896,24126,3.4985,1398
+"plátano verde","arcilloso","goteo","orgánica","medio",8810,24995,2.8371,3242
+"sandía","franco-arcilloso","aspersión","química","bajo",6017,10688,1.7763,5146
+"arroz","franco","aspersión","mixta","bajo",7748,6559,0.8465,3319
+"melón","arenoso","goteo","química","bajo",5790,7421,1.2817,4367
+"cacao","franco-arcilloso","goteo","química","bajo",7254,1387,0.1912,4240
+"cacao","arenoso","gravedad","mixta","bajo",7330,1431,0.1952,3540
+"melón","arenoso","goteo","orgánica","medio",6492,9174,1.4131,3356
+"melón","franco","gravedad","mixta","medio",7154,10649,1.4885,4921
+"arroz","arenoso","gravedad","orgánica","medio",6559,8126,1.2389,3927
+"arroz","franco-arcilloso","aspersión","orgánica","bajo",6973,6742,0.9669,4604
+"banano","arenoso","goteo","mixta","medio",5962,26697,4.4779,4269
+"banano","arcilloso","aspersión","orgánica","alto",6428,24219,3.7677,3509
+"cacao","franco-arcilloso","goteo","orgánica","alto",5856,1526,0.2606,3977
+"sandía","franco","goteo","química","medio",6703,13095,1.9536,5244
+"banano","franco-arcilloso","aspersión","orgánica","medio",6942,26158,3.7681,2864
+"sandía","arenoso","goteo","orgánica","medio",5847,12069,2.0641,3979
+"plátano verde","arenoso","goteo","orgánica","medio",6516,20936,3.213,4752
+"plátano verde","franco-arcilloso","goteo","mixta","alto",6295,22601,3.5903,4311
+"plátano verde","arenoso","aspersión","química","alto",8394,22225,2.6477,3670
+"banano","arenoso","goteo","orgánica","medio",16012,7587,0.4738,4670
+"banano","franco","goteo","orgánica","medio",9498,23598,2.4845,3425
+"sandía","franco","gravedad","orgánica","medio",14311,6873,0.4803,4782
+"maíz","franco","aspersión","mixta","bajo",8383,8774,1.0466,4145
+"maíz","franco-arcilloso","goteo","química","bajo",7792,11061,1.4195,4656
+"sandía","arenoso","goteo","orgánica","medio",7604,11066,1.4553,4287
+"maíz","franco","gravedad","química","medio",8877,9151,1.0309,3612
+"melón","franco","gravedad","orgánica","medio",6246,10687,1.711,3293
+"arroz","arenoso","goteo","química","alto",6992,8527,1.2195,4194
+"melón","franco-arcilloso","aspersión","orgánica","medio",6434,9701,1.5078,3360
+"melón","arenoso","goteo","mixta","alto",11218,5463,0.487,2688
+"cacao","arcilloso","goteo","orgánica","alto",4925,1426,0.2895,3846
+"sandía","arcilloso","goteo","mixta","alto",5907,14646,2.4794,4613
+"melón","arenoso","aspersión","mixta","medio",6876,10826,1.5745,3010
+"maíz","arenoso","gravedad","mixta","alto",8618,8669,1.0059,3884
+"sandía","arcilloso","aspersión","orgánica","medio",8091,13742,1.6984,3350
+"sandía","franco-arcilloso","gravedad","mixta","medio",6356,13222,2.0802,4732
+"banano","franco-arcilloso","goteo","orgánica","bajo",7123,26904,3.7771,4117
+"cacao","arenoso","aspersión","química","medio",5431,1530,0.2817,3531
+"banano","franco-arcilloso","goteo","orgánica","bajo",7628,22517,2.9519,4707
+"banano","arcilloso","goteo","mixta","medio",6940,25347,3.6523,4057
+"melón","franco-arcilloso","gravedad","orgánica","medio",6549,9990,1.5254,4429
+"plátano verde","arcilloso","gravedad","orgánica","alto",7121,20867,2.9303,4375
+"maíz","arenoso","gravedad","orgánica","bajo",7871,8880,1.1282,5255
+"maíz","arenoso","aspersión","química","alto",5423,8144,1.5018,2626
+"banano","arcilloso","aspersión","mixta","medio",8512,24146,2.8367,4343
+"banano","franco-arcilloso","goteo","química","medio",6949,25988,3.7398,2730
+"melón","franco-arcilloso","gravedad","orgánica","medio",8751,9936,1.1354,3470
+"sandía","franco-arcilloso","aspersión","química","medio",5468,11239,2.0554,4398
+"banano","arcilloso","goteo","química","medio",12015,10969,0.9129,3606
+"melón","arcilloso","aspersión","mixta","medio",5151,9778,1.8983,4134
+"plátano verde","arenoso","gravedad","química","alto",6584,23584,3.582,4764
+"plátano verde","franco","aspersión","química","bajo",5401,23900,4.4251,4180
+"arroz","franco-arcilloso","gravedad","mixta","bajo",7865,7918,1.0067,3270
+"arroz","arenoso","aspersión","química","bajo",8041,7195,0.8948,4854
+"arroz","arcilloso","aspersión","química","alto",5205,7922,1.522,5322
+"arroz","franco-arcilloso","goteo","mixta","alto",6773,7248,1.0701,4568
+"sandía","arcilloso","gravedad","mixta","bajo",6443,10134,1.5729,4629
+"melón","franco-arcilloso","goteo","orgánica","alto",5504,11159,2.0274,4368
+"banano","franco","goteo","orgánica","medio",6255,23754,3.7976,4528
+"melón","arcilloso","aspersión","mixta","bajo",8124,7459,0.9181,5086
+"banano","arenoso","gravedad","química","medio",6998,24615,3.5174,3544
+"plátano verde","arcilloso","gravedad","orgánica","alto",7973,23623,2.9629,3741
+"plátano verde","arenoso","goteo","orgánica","alto",7827,21904,2.7985,4549
+"cacao","franco-arcilloso","aspersión","química","medio",6677,1535,0.2299,4745
+"sandía","arenoso","gravedad","química","bajo",5351,12015,2.2454,4459
+"maíz","arcilloso","gravedad","mixta","bajo",9451,8715,0.9221,2880
+"banano","arcilloso","goteo","química","bajo",7257,22799,3.1417,2961
+"arroz","franco-arcilloso","aspersión","orgánica","medio",6497,8421,1.2961,4557
+"plátano verde","franco-arcilloso","gravedad","orgánica","medio",8035,23332,2.9038,5861
+"sandía","arenoso","gravedad","química","medio",9545,12199,1.2781,4506
+"melón","arcilloso","gravedad","orgánica","medio",6141,10543,1.7168,3066
+"melón","arenoso","aspersión","mixta","alto",7247,8429,1.1631,5146
+"melón","arcilloso","goteo","orgánica","medio",5629,10989,1.9522,5385
+"plátano verde","franco-arcilloso","gravedad","química","alto",5900,24763,4.1971,3172
+"melón","franco","gravedad","mixta","alto",8639,10331,1.1959,4792
+"sandía","franco","goteo","orgánica","medio",4832,13962,2.8895,4000
+"maíz","franco-arcilloso","aspersión","mixta","medio",7509,9306,1.2393,4179
+"melón","franco","gravedad","orgánica","medio",7239,8400,1.1604,3343
+"maíz","franco","gravedad","orgánica","alto",7353,5185,0.7052,2693
+"banano","franco","goteo","orgánica","alto",7162,26108,3.6454,3242
+"maíz","franco-arcilloso","goteo","mixta","alto",5458,8926,1.6354,4622
+"arroz","franco-arcilloso","aspersión","orgánica","medio",8097,8455,1.0442,4470
+"plátano verde","franco","aspersión","orgánica","bajo",8210,17577,2.1409,5669
+"melón","arenoso","gravedad","orgánica","medio",5185,11224,2.1647,4514
+"sandía","arenoso","goteo","química","medio",3532,14036,3.974,5606
+"sandía","arenoso","aspersión","orgánica","bajo",7976,12322,1.5449,3749
+"plátano verde","franco","goteo","mixta","medio",6537,17841,2.7292,3727
+"plátano verde","arenoso","gravedad","orgánica","medio",5456,19632,3.5982,3549
+"cacao","arenoso","goteo","mixta","medio",5317,1576,0.2964,4463
+"arroz","franco","aspersión","mixta","medio",8958,6337,0.7074,3393
+"plátano verde","franco","goteo","orgánica","medio",6616,21057,3.1827,5230
+"maíz","arcilloso","gravedad","mixta","medio",7220,10561,1.4627,3776
+"cacao","franco-arcilloso","gravedad","química","medio",6629,1400,0.2112,2829
+"plátano verde","franco-arcilloso","gravedad","orgánica","medio",6052,24988,4.1289,3880
+"maíz","franco-arcilloso","gravedad","química","alto",7882,9115,1.1564,2922
+"plátano verde","franco-arcilloso","aspersión","química","medio",5840,25061,4.2913,4066
+"plátano verde","franco-arcilloso","aspersión","química","medio",7379,18415,2.4956,4475
+"plátano verde","franco-arcilloso","goteo","orgánica","medio",6815,21386,3.1381,4653
+"melón","franco-arcilloso","aspersión","mixta","bajo",6110,8420,1.3781,2835
+"arroz","arcilloso","goteo","orgánica","alto",7498,9496,1.2665,4496
+"maíz","arcilloso","goteo","mixta","medio",10879,8892,0.8174,4148
+"sandía","arcilloso","goteo","mixta","medio",5557,10769,1.9379,2026
+"maíz","arenoso","gravedad","química","bajo",7828,10182,1.3007,4637
+"banano","arcilloso","gravedad","química","medio",8638,22882,2.649,3734
+"melón","franco","gravedad","orgánica","alto",8770,10628,1.2119,4195
+"plátano verde","franco-arcilloso","goteo","mixta","medio",7559,25306,3.3478,4173
+"cacao","arenoso","gravedad","mixta","medio",8731,1583,0.1813,4067
+"cacao","arenoso","goteo","química","bajo",6737,1297,0.1925,3130
+"sandía","arcilloso","goteo","orgánica","medio",6458,10215,1.5818,4071
+"arroz","franco","goteo","química","medio",7228,8119,1.1233,4075
+"arroz","franco","aspersión","química","bajo",7342,8451,1.151,2725
+"melón","arcilloso","goteo","orgánica","medio",6550,8922,1.3621,3629
+"sandía","franco-arcilloso","aspersión","mixta","bajo",7156,12781,1.7861,4325
+"banano","franco","goteo","química","medio",6379,25122,3.9382,4119
+"cacao","franco","goteo","orgánica","bajo",6088,1301,0.2137,3807
+"arroz","franco","goteo","orgánica","bajo",7401,6752,0.9123,4053
+"maíz","franco-arcilloso","gravedad","mixta","medio",6884,9025,1.311,4072
+"banano","franco","aspersión","química","medio",4974,28098,5.649,4297
+"arroz","arcilloso","goteo","mixta","bajo",5237,7261,1.3865,5599
+"cacao","arcilloso","gravedad","química","medio",6320,1600,0.2532,3401
+"maíz","franco","aspersión","química","bajo",4504,9431,2.0939,4811
+"melón","franco","aspersión","mixta","alto",8299,10133,1.221,5934
+"arroz","franco","gravedad","orgánica","medio",6964,7684,1.1034,4258
+"cacao","arenoso","gravedad","química","medio",8345,1059,0.1269,4497
+"sandía","franco-arcilloso","gravedad","química","alto",8145,12314,1.5118,4899
+"melón","franco","goteo","orgánica","bajo",6131,10484,1.71,3983
+"arroz","arenoso","goteo","química","medio",5501,8366,1.5208,3205
+"cacao","franco-arcilloso","gravedad","química","bajo",5391,1446,0.2682,5587
+"sandía","arenoso","gravedad","orgánica","bajo",9728,10606,1.0903,4733
+"melón","arcilloso","gravedad","química","medio",10269,5224,0.5087,4215
+"arroz","arenoso","gravedad","orgánica","medio",5864,8945,1.5254,3644
+"maíz","arenoso","aspersión","mixta","medio",6005,9251,1.5405,2192
+"plátano verde","franco","goteo","mixta","alto",9435,12581,1.3334,5120
+"cacao","arcilloso","aspersión","mixta","medio",6891,1459,0.2117,4689
+"maíz","franco","goteo","mixta","medio",5848,10255,1.7536,4669
+"sandía","franco-arcilloso","goteo","orgánica","alto",6684,13060,1.9539,3396
+"banano","arenoso","aspersión","orgánica","medio",6925,18453,2.6647,3074
+"arroz","franco","aspersión","orgánica","medio",5476,6083,1.1108,3736
+"melón","franco-arcilloso","gravedad","mixta","medio",8100,8968,1.1072,2412
+"plátano verde","arenoso","gravedad","mixta","medio",8196,21980,2.6818,4454
+"plátano verde","franco","goteo","orgánica","alto",7401,20215,2.7314,4799
+"maíz","arenoso","goteo","orgánica","alto",5325,9758,1.8325,4534
+"melón","arcilloso","gravedad","mixta","medio",6851,9814,1.4325,2571
+"maíz","franco-arcilloso","aspersión","química","medio",5804,10663,1.8372,4595
+"sandía","franco-arcilloso","gravedad","orgánica","bajo",7837,11862,1.5136,4160
+"plátano verde","franco-arcilloso","goteo","mixta","medio",8048,27019,3.3572,4443
+"sandía","franco","gravedad","mixta","medio",4146,11087,2.6741,3504
+"melón","arenoso","gravedad","química","medio",7866,10213,1.2984,2957
+"maíz","franco","gravedad","mixta","medio",7486,9036,1.2071,5237
+"plátano verde","franco-arcilloso","goteo","orgánica","medio",6296,23890,3.7945,3935
+"maíz","franco","goteo","química","medio",6037,10148,1.681,3831
+"sandía","franco-arcilloso","gravedad","química","bajo",7437,11580,1.5571,4066
+"sandía","arcilloso","goteo","orgánica","alto",6187,11246,1.8177,4165
+"arroz","arenoso","gravedad","química","medio",7034,7572,1.0765,4550
+"plátano verde","franco","gravedad","mixta","alto",7110,23316,3.2793,3647
+"melón","franco-arcilloso","goteo","química","alto",8351,3964,0.4747,5321
+"banano","arenoso","gravedad","orgánica","medio",8751,25015,2.8585,5456
+"maíz","franco-arcilloso","goteo","orgánica","bajo",5215,9724,1.8646,4575
+"cacao","franco","aspersión","mixta","medio",8915,1426,0.16,4272
+"sandía","franco","gravedad","mixta","alto",7726,10786,1.3961,4118
+"arroz","arenoso","aspersión","mixta","bajo",5768,7151,1.2398,3713
+"melón","arenoso","goteo","química","bajo",6875,9830,1.4298,5322
+"plátano verde","franco-arcilloso","gravedad","mixta","medio",6462,19172,2.9669,3813
+"sandía","arenoso","goteo","química","medio",5399,10323,1.912,3352
+"arroz","franco","aspersión","orgánica","bajo",8013,6839,0.8535,4631
+"maíz","arenoso","goteo","mixta","medio",6138,10318,1.681,5488
+"cacao","franco","gravedad","mixta","bajo",8186,1646,0.2011,4013
+"plátano verde","arcilloso","goteo","química","alto",5050,24176,4.7873,3385
+"sandía","franco-arcilloso","aspersión","orgánica","bajo",7463,13633,1.8267,4165
+"plátano verde","franco","goteo","mixta","alto",6164,21506,3.489,3802
+"maíz","arcilloso","aspersión","química","medio",7870,7951,1.0103,3351
+"maíz","franco","goteo","mixta","medio",5856,9460,1.6154,5098
+"cacao","arenoso","gravedad","mixta","bajo",9380,1412,0.1505,3329
+"plátano verde","arcilloso","goteo","química","bajo",7597,20220,2.6616,4726
+"melón","franco-arcilloso","goteo","química","bajo",7168,9531,1.3297,4667
+"arroz","arcilloso","goteo","mixta","bajo",7687,6655,0.8657,3687
+"banano","arcilloso","gravedad","mixta","bajo",7018,20484,2.9188,4491
+"banano","franco-arcilloso","goteo","orgánica","alto",7862,27087,3.4453,4903
+"sandía","arcilloso","aspersión","química","bajo",7563,10429,1.379,4721
+"plátano verde","franco-arcilloso","gravedad","orgánica","medio",7997,19293,2.4125,4204
+"plátano verde","arcilloso","gravedad","mixta","medio",8753,24965,2.8522,3094
+"banano","arenoso","aspersión","mixta","alto",6665,26423,3.9644,4267
+"cacao","franco-arcilloso","aspersión","orgánica","medio",6463,1615,0.2499,2585
+"melón","franco-arcilloso","aspersión","mixta","bajo",6672,10151,1.5214,4282
+"maíz","arcilloso","gravedad","mixta","medio",7439,8048,1.0819,3569
+"cacao","arcilloso","gravedad","mixta","medio",7197,1445,0.2008,3480
+"cacao","franco-arcilloso","goteo","orgánica","bajo",6143,1458,0.2373,4359
+"cacao","franco-arcilloso","aspersión","orgánica","alto",6417,1894,0.2952,3442
+"maíz","franco-arcilloso","gravedad","química","medio",7519,9430,1.2542,4985
+"banano","franco-arcilloso","aspersión","mixta","medio",7941,26015,3.276,3370
+"maíz","franco-arcilloso","goteo","orgánica","bajo",5683,9090,1.5995,4746
+"sandía","arcilloso","goteo","orgánica","alto",6727,13167,1.9573,3844
+"sandía","franco-arcilloso","goteo","mixta","bajo",8297,11722,1.4128,3662
+"cacao","franco-arcilloso","goteo","mixta","medio",5372,1450,0.2699,3552
+"banano","arenoso","gravedad","química","bajo",6388,27790,4.3503,4442
+"cacao","arenoso","goteo","orgánica","alto",4409,1484,0.3366,3375
+"maíz","arenoso","goteo","mixta","alto",5819,8299,1.4262,3702
+"banano","arcilloso","gravedad","orgánica","bajo",7932,22997,2.8993,4185
+"maíz","arenoso","gravedad","mixta","medio",6321,10030,1.5868,3562
+"sandía","arenoso","gravedad","orgánica","medio",6041,12677,2.0985,4084
+"cacao","arenoso","goteo","mixta","alto",8578,1548,0.1805,3028
+"cacao","arenoso","aspersión","mixta","bajo",6812,1460,0.2143,3707
+"melón","franco-arcilloso","goteo","química","bajo",7076,10056,1.4211,5584
+"plátano verde","franco","aspersión","mixta","medio",5955,22353,3.7537,4132
+"banano","arcilloso","gravedad","química","bajo",8363,23391,2.797,3979
+"arroz","franco-arcilloso","goteo","orgánica","medio",7008,8270,1.1801,3869
+"arroz","franco-arcilloso","goteo","mixta","medio",7612,9201,1.2087,3558
+"maíz","arcilloso","goteo","química","bajo",6856,10084,1.4708,3055
+"cacao","franco-arcilloso","gravedad","química","medio",8253,1223,0.1482,2831
+"maíz","arcilloso","aspersión","orgánica","medio",8972,9909,1.1044,3551
+"melón","arenoso","aspersión","mixta","bajo",6237,11777,1.8882,4392
+"cacao","arcilloso","goteo","mixta","bajo",7232,1347,0.1863,3552
+"banano","arcilloso","goteo","mixta","medio",7255,21917,3.021,4101
+"cacao","franco-arcilloso","goteo","orgánica","medio",7840,1532,0.1954,3812
+"cacao","franco","aspersión","mixta","alto",6216,1364,0.2194,5103
+"arroz","arenoso","gravedad","mixta","medio",6452,8011,1.2416,2746
+"sandía","franco-arcilloso","goteo","mixta","alto",6044,11518,1.9057,4577
+"sandía","arcilloso","gravedad","mixta","alto",7367,12226,1.6596,3633
+"maíz","franco","gravedad","mixta","bajo",7638,9184,1.2024,4825
+"maíz","franco","gravedad","química","medio",12698,4832,0.3805,3967
+"sandía","arcilloso","goteo","orgánica","medio",6013,12997,2.1615,3406
+"plátano verde","arenoso","goteo","química","alto",8870,21530,2.4273,4795
+"banano","arenoso","aspersión","química","bajo",5943,23089,3.8851,3701
+"melón","arcilloso","goteo","mixta","medio",6322,10233,1.6186,3579
+"sandía","arenoso","aspersión","química","medio",5399,12159,2.2521,4503
+"arroz","franco","gravedad","química","alto",7005,5955,0.8501,4376
+"plátano verde","franco","goteo","química","bajo",7380,19703,2.6698,4503
+"banano","arcilloso","gravedad","química","medio",7327,27506,3.7541,5229
+"banano","arenoso","gravedad","orgánica","medio",6801,25902,3.8086,3815
+"arroz","arcilloso","goteo","mixta","alto",6082,9633,1.5839,2885
+"cacao","franco","aspersión","orgánica","medio",6126,1715,0.28,3494
+"plátano verde","arenoso","aspersión","mixta","alto",5718,22429,3.9225,3147
+"cacao","arcilloso","goteo","química","alto",5513,1553,0.2817,4302
+"cacao","franco-arcilloso","goteo","mixta","medio",6744,1184,0.1756,5420
+"arroz","arenoso","aspersión","química","bajo",15676,2189,0.1396,5046
+"banano","franco-arcilloso","goteo","orgánica","bajo",5520,22230,4.0272,3291
+"cacao","franco-arcilloso","aspersión","mixta","alto",8588,1241,0.1445,3893
+"cacao","arcilloso","goteo","mixta","medio",6792,1722,0.2535,4048
+"melón","arenoso","aspersión","orgánica","alto",5440,10606,1.9496,4458
+"melón","arcilloso","goteo","química","medio",4679,9683,2.0695,4962
+"arroz","franco-arcilloso","goteo","química","medio",4910,9480,1.9308,4182
+"plátano verde","arenoso","goteo","química","bajo",6386,19850,3.1084,3086
+"plátano verde","franco","gravedad","mixta","alto",5982,22924,3.8322,4699
+"arroz","arcilloso","goteo","química","bajo",4824,8780,1.8201,4258
+"banano","franco","gravedad","mixta","medio",8448,23862,2.8246,3651
+"sandía","arcilloso","gravedad","química","medio",14745,6691,0.4538,3486
+"melón","franco-arcilloso","aspersión","química","bajo",6666,10584,1.5878,2594
+"melón","arcilloso","gravedad","química","alto",4206,9663,2.2974,3567
+"melón","arcilloso","goteo","química","alto",7238,10532,1.4551,3954
+"cacao","arenoso","goteo","mixta","bajo",8317,1262,0.1517,2363
+"maíz","franco-arcilloso","aspersión","química","bajo",11472,3671,0.32,3660
+"banano","arcilloso","aspersión","orgánica","alto",7045,25942,3.6823,3521
+"plátano verde","arcilloso","aspersión","orgánica","bajo",10281,18426,1.7922,4634
+"arroz","arenoso","gravedad","orgánica","bajo",9502,7992,0.8411,5657
+"banano","arcilloso","gravedad","orgánica","bajo",7446,28451,3.821,4802
+"melón","franco","goteo","orgánica","medio",5574,8238,1.4779,3000
+"plátano verde","arenoso","aspersión","mixta","bajo",8046,23504,2.9212,5532
+"plátano verde","franco","goteo","química","medio",6221,28473,4.5769,4715
+"cacao","arcilloso","gravedad","mixta","alto",6795,1255,0.1847,4995
+"melón","franco","aspersión","mixta","medio",8285,9869,1.1912,4494
+"sandía","arenoso","goteo","química","alto",7057,12188,1.7271,4025
+"maíz","franco","aspersión","mixta","alto",9563,4229,0.4422,3501
+"melón","arcilloso","aspersión","química","alto",5300,10141,1.9134,3797
+"melón","franco","gravedad","orgánica","alto",7962,9717,1.2204,3434
+"plátano verde","franco","gravedad","mixta","medio",7386,21821,2.9544,4730
+"banano","arenoso","gravedad","mixta","medio",8092,28804,3.5596,3304
+"melón","franco","gravedad","química","bajo",6873,8549,1.2439,3875
+"cacao","franco","goteo","mixta","bajo",8836,1369,0.1549,4270
+"plátano verde","franco","aspersión","orgánica","medio",8236,22281,2.7053,4703
+"melón","arenoso","gravedad","orgánica","alto",8933,9349,1.0466,3403
+"sandía","arcilloso","gravedad","mixta","medio",8404,12923,1.5377,3140
+"banano","franco","goteo","química","alto",8124,25835,3.1801,4801
+"banano","franco","goteo","orgánica","alto",6006,26823,4.466,2985
+"arroz","franco","aspersión","orgánica","medio",8176,8671,1.0605,3547
+"maíz","arcilloso","aspersión","mixta","alto",5466,9781,1.7894,4772
+"plátano verde","franco-arcilloso","goteo","química","bajo",6780,24564,3.623,3048
+"melón","arcilloso","aspersión","orgánica","medio",7117,10192,1.4321,3546
+"melón","arenoso","aspersión","química","bajo",8739,9822,1.1239,3096
+"cacao","franco-arcilloso","gravedad","química","medio",7534,1573,0.2088,4605
+"sandía","franco-arcilloso","aspersión","química","bajo",6989,12924,1.8492,4154
+"melón","arcilloso","aspersión","orgánica","medio",6028,10945,1.8157,3565
+"maíz","franco","gravedad","química","medio",8236,11391,1.3831,4187
+"sandía","franco-arcilloso","aspersión","mixta","medio",6945,10142,1.4603,3475
+"sandía","franco","gravedad","mixta","medio",6368,10647,1.672,4833
+"arroz","arenoso","goteo","orgánica","medio",5839,6493,1.112,3534
+"banano","arcilloso","gravedad","mixta","medio",6909,30264,4.3804,4402
+"sandía","arcilloso","aspersión","orgánica","medio",6322,12494,1.9763,4015
+"melón","franco-arcilloso","gravedad","orgánica","alto",8025,9943,1.239,3002
+"maíz","franco-arcilloso","gravedad","mixta","alto",6356,8695,1.368,3312
+"melón","arcilloso","gravedad","mixta","medio",5651,10541,1.8653,3952
+"cacao","franco-arcilloso","aspersión","química","alto",7569,1684,0.2225,5180
+"sandía","franco-arcilloso","aspersión","química","medio",6266,12364,1.9732,3276
+"arroz","franco-arcilloso","goteo","química","medio",6018,7994,1.3283,2648
+"arroz","arenoso","goteo","química","medio",3617,7089,1.9599,2838
+"arroz","franco","aspersión","mixta","medio",9143,8694,0.9509,3292
+"banano","franco-arcilloso","gravedad","mixta","alto",8602,26125,3.0371,4257
+"banano","arenoso","goteo","orgánica","medio",6610,27167,4.11,3463
+"banano","franco-arcilloso","goteo","mixta","bajo",4831,25350,5.2474,3715
+"sandía","franco-arcilloso","aspersión","química","bajo",14303,6517,0.4556,4640
+"banano","arenoso","goteo","mixta","bajo",7997,24040,3.0061,4233
+"sandía","franco-arcilloso","aspersión","química","medio",7911,12505,1.5807,3936
+"plátano verde","arenoso","goteo","química","bajo",6516,18335,2.8138,2599
+"plátano verde","arenoso","goteo","orgánica","medio",5846,22762,3.8936,2611
+"cacao","arcilloso","goteo","mixta","alto",6958,1699,0.2442,2879
+"cacao","franco-arcilloso","gravedad","orgánica","bajo",6033,1329,0.2203,4850
+"melón","arcilloso","aspersión","orgánica","bajo",5387,10597,1.9671,4728
+"arroz","arenoso","goteo","orgánica","bajo",8329,7750,0.9305,4606
+"arroz","arenoso","gravedad","química","bajo",7444,8290,1.1136,2527
+"sandía","arcilloso","goteo","orgánica","medio",8014,12512,1.5613,3985
+"arroz","franco-arcilloso","goteo","mixta","alto",7729,6701,0.867,6303
+"plátano verde","arenoso","gravedad","mixta","bajo",7850,21316,2.7154,3918
+"maíz","arenoso","gravedad","química","bajo",9329,9373,1.0047,3856
+"banano","franco","gravedad","mixta","bajo",6690,22948,3.4302,4060
+"plátano verde","franco","aspersión","mixta","medio",6206,22635,3.6473,3599
+"cacao","franco-arcilloso","aspersión","mixta","medio",9303,1706,0.1834,3625
+"maíz","franco","gravedad","mixta","bajo",8883,9303,1.0473,3279
+"cacao","arcilloso","aspersión","orgánica","alto",7698,1398,0.1816,1819
+"sandía","franco","aspersión","química","medio",6510,14296,2.196,3805
+"sandía","arcilloso","gravedad","química","medio",5213,11177,2.1441,4023
+"sandía","arenoso","aspersión","orgánica","bajo",6356,11783,1.8538,4727
+"plátano verde","franco","aspersión","química","medio",5267,23330,4.4295,3969
+"sandía","franco-arcilloso","goteo","mixta","alto",7065,12569,1.7791,4191
+"arroz","franco","aspersión","orgánica","medio",8435,9229,1.0941,4205
+"melón","arenoso","gravedad","mixta","bajo",8151,8556,1.0497,3527
+"plátano verde","franco","gravedad","orgánica","medio",6060,21835,3.6031,3130
+"maíz","franco","gravedad","mixta","medio",5681,8961,1.5774,5949
+"plátano verde","franco-arcilloso","gravedad","orgánica","medio",7741,22961,2.9662,2916
+"banano","arcilloso","gravedad","química","alto",5849,27022,4.6199,4385
+"melón","franco","aspersión","mixta","medio",8228,9183,1.1161,4595
+"melón","franco","gravedad","química","alto",8032,9854,1.2268,4433
+"plátano verde","arenoso","gravedad","orgánica","medio",7557,22909,3.0315,3868
+"banano","arcilloso","goteo","química","bajo",6157,24672,4.0071,4844
+"sandía","arenoso","gravedad","mixta","medio",5864,13266,2.2623,2477
+"arroz","arcilloso","goteo","orgánica","medio",5745,8391,1.4606,3131
+"banano","arcilloso","goteo","mixta","alto",7029,28572,4.0649,3311
+"cacao","franco","gravedad","orgánica","medio",6830,1485,0.2174,4581
+"melón","arenoso","goteo","orgánica","medio",5534,11237,2.0305,4508
+"melón","arenoso","gravedad","mixta","bajo",10199,10530,1.0325,2489
+"banano","arcilloso","goteo","orgánica","medio",5413,26686,4.93,4478
+"plátano verde","arcilloso","aspersión","química","medio",6831,26565,3.8889,3765
+"melón","arcilloso","aspersión","orgánica","medio",6623,10630,1.605,3165
+"sandía","franco","gravedad","mixta","medio",6133,11689,1.9059,4517
+"sandía","franco-arcilloso","aspersión","mixta","medio",5693,12554,2.2052,4427
+"arroz","arenoso","gravedad","química","alto",9258,7523,0.8126,3894
+"arroz","franco-arcilloso","aspersión","mixta","medio",5740,8468,1.4753,3779
+"maíz","arenoso","goteo","orgánica","alto",5578,9021,1.6172,5252
+"plátano verde","franco","aspersión","orgánica","medio",14538,7954,0.5471,4562
+"melón","arcilloso","goteo","orgánica","bajo",5773,10065,1.7435,3146
+"melón","arcilloso","aspersión","mixta","medio",7548,11157,1.4781,4774
+"plátano verde","franco","aspersión","química","bajo",8478,24152,2.8488,4135
+"cacao","arcilloso","goteo","orgánica","medio",7833,1492,0.1905,5149
+"plátano verde","franco","goteo","mixta","medio",5686,23605,4.1514,3743
+"sandía","arenoso","gravedad","mixta","medio",8513,11652,1.3687,4384
+"arroz","arcilloso","aspersión","mixta","medio",5641,7996,1.4175,3503
+"melón","franco","aspersión","química","bajo",8346,9663,1.1578,4483
+"melón","arcilloso","goteo","mixta","bajo",5684,10515,1.8499,4141
+"banano","franco","goteo","mixta","medio",5729,25453,4.4428,3694
+"maíz","arenoso","goteo","mixta","bajo",6263,8631,1.3781,2393
+"arroz","arenoso","aspersión","química","medio",5671,7950,1.4019,2402
+"banano","franco","aspersión","orgánica","medio",6029,24807,4.1146,4551
+"maíz","franco-arcilloso","goteo","mixta","medio",6540,8814,1.3477,4226
+"arroz","franco-arcilloso","gravedad","química","medio",8065,7230,0.8965,5183
+"melón","arenoso","gravedad","mixta","medio",7272,10812,1.4868,3414
+"sandía","arenoso","goteo","química","medio",12408,7379,0.5947,3401
+"banano","arenoso","goteo","mixta","medio",7186,22336,3.1083,4242
+"plátano verde","arenoso","aspersión","química","alto",6988,22213,3.1787,5252
+"plátano verde","franco","goteo","orgánica","medio",9028,24033,2.6621,5869
+"maíz","franco-arcilloso","gravedad","orgánica","bajo",6153,7509,1.2204,3996
+"cacao","franco-arcilloso","gravedad","mixta","bajo",7164,1086,0.1516,3706
+"sandía","franco","goteo","mixta","medio",5354,14637,2.7338,3521
+"banano","franco-arcilloso","goteo","orgánica","medio",7446,24236,3.2549,5214
+"maíz","franco-arcilloso","aspersión","orgánica","bajo",8123,8851,1.0896,4184
+"sandía","franco","goteo","química","alto",6087,14184,2.3302,3856
+"sandía","franco","goteo","orgánica","medio",7508,10488,1.3969,3473
+"maíz","franco","gravedad","orgánica","medio",8496,9348,1.1003,4838
+"maíz","franco","goteo","química","alto",6817,10651,1.5624,4375
+"plátano verde","arenoso","aspersión","mixta","bajo",7371,22836,3.0981,4651
+"cacao","franco","goteo","mixta","bajo",7212,1670,0.2316,4342
+"plátano verde","franco-arcilloso","aspersión","mixta","bajo",4668,23100,4.9486,3699
+"maíz","franco","gravedad","mixta","alto",6217,9594,1.5432,4904
+"plátano verde","franco","goteo","mixta","alto",6179,20216,3.2717,5248
+"sandía","arenoso","goteo","química","medio",7597,13107,1.7253,3789
+"banano","arenoso","gravedad","mixta","medio",7199,23963,3.3287,3965
+"plátano verde","franco-arcilloso","goteo","orgánica","alto",5645,20137,3.5672,4899
+"sandía","franco-arcilloso","goteo","mixta","bajo",4659,12879,2.7643,4359
+"cacao","arenoso","goteo","mixta","bajo",5159,1650,0.3198,4853
+"banano","franco","gravedad","orgánica","medio",6812,18710,2.7466,3318
+"maíz","arenoso","gravedad","química","alto",7291,7914,1.0854,2733
+"cacao","arcilloso","gravedad","orgánica","medio",5893,1659,0.2815,4377
+"melón","franco","goteo","química","alto",7653,10202,1.3331,4206
+"sandía","franco-arcilloso","goteo","química","alto",6375,10719,1.6814,4851
+"maíz","franco","goteo","mixta","alto",7128,8693,1.2196,5484
+"plátano verde","franco-arcilloso","goteo","mixta","alto",8650,25261,2.9203,3844
+"maíz","arcilloso","gravedad","orgánica","medio",6042,8489,1.405,3510
+"sandía","arcilloso","goteo","orgánica","medio",7508,11559,1.5396,3450
+"arroz","arcilloso","gravedad","orgánica","medio",7446,7933,1.0654,2286
+"plátano verde","franco-arcilloso","goteo","orgánica","medio",6572,26347,4.009,3889
+"melón","arcilloso","gravedad","orgánica","bajo",5990,10119,1.6893,3724
+"melón","arcilloso","aspersión","orgánica","alto",8200,10344,1.2615,3706
+"banano","franco-arcilloso","goteo","mixta","bajo",7890,26360,3.3409,3878
+"plátano verde","arenoso","goteo","química","bajo",6783,19498,2.8745,3181
+"maíz","arenoso","goteo","química","bajo",7085,8025,1.1327,4469
+"melón","franco-arcilloso","aspersión","orgánica","medio",6926,9471,1.3675,4616
+"banano","arcilloso","goteo","química","alto",8200,23525,2.8689,3650
+"maíz","arenoso","goteo","orgánica","medio",7907,9011,1.1396,2970
+"arroz","franco-arcilloso","goteo","química","medio",6963,6679,0.9592,4937
+"maíz","franco-arcilloso","gravedad","orgánica","bajo",7846,7650,0.975,3879
+"banano","arenoso","goteo","orgánica","medio",6959,28235,4.0573,4851
+"sandía","franco","gravedad","orgánica","medio",7620,12190,1.5997,2834
+"sandía","arcilloso","goteo","química","bajo",7243,11245,1.5525,3804
+"plátano verde","arenoso","aspersión","mixta","bajo",5898,24176,4.099,2300
+"melón","franco","goteo","orgánica","bajo",7744,8216,1.061,4610
+"arroz","franco","goteo","mixta","medio",4763,8278,1.738,5477
+"maíz","arenoso","goteo","orgánica","alto",7167,9280,1.2948,4447
+"cacao","franco","aspersión","orgánica","medio",8967,1468,0.1637,3893
+"banano","arcilloso","aspersión","mixta","medio",6453,24966,3.8689,4729
+"plátano verde","arcilloso","goteo","orgánica","medio",6669,20853,3.1269,4012
+"maíz","arcilloso","gravedad","mixta","medio",7526,9028,1.1996,2554
+"sandía","franco-arcilloso","goteo","orgánica","medio",6668,13566,2.0345,2532
+"maíz","franco-arcilloso","goteo","química","medio",6458,10697,1.6564,5331
+"cacao","arcilloso","aspersión","química","bajo",7692,1330,0.1729,3595
+"plátano verde","arenoso","goteo","mixta","bajo",6569,22786,3.4687,4785
+"plátano verde","arenoso","aspersión","química","alto",11162,11562,1.0358,5233
+"sandía","franco-arcilloso","gravedad","química","medio",6567,10635,1.6195,3509
+"maíz","franco","aspersión","química","medio",7157,8725,1.2191,3929
+"sandía","franco-arcilloso","gravedad","mixta","bajo",6144,8283,1.3481,4458
+"maíz","franco-arcilloso","goteo","mixta","bajo",8066,8334,1.0332,5571
